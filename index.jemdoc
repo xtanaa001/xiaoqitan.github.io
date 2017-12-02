@@ -21,14 +21,16 @@ Email: xtanaa${\text{[at]}}$ust.hk, ecexiaoqi.tan${\text{[at]}}$connect.ust.hk\n
 I am currently a Ph.D. student in the ECE Department at HKUST. Before joining HKUST, I received my B.Eng. degree from the Dept. of Information and Communication Engineering (first class honor), Xi’an Jiaotong University, Xi’an (the home of [https://en.wikipedia.org/wiki/Terracotta_Army Terracotta Warriors and Horses]), China, 2012. I am now with the research group of [http://c2e.ece.ust.hk/main/ Computing, Communications and Energy System Optimization] (C2E) in ECE department at HKUST leading by Prof. [http://www.ece.ust.hk/~eetsang/ Danny H.K. Tsang]. From Oct. 2015 to May 2016, I was a fellow in School of Engineering and Applied Science (SEAS), Harvard University.
 
 
-== Research Interests 
-- *Energy Systems* (e.g., battery energy storage and renewable energy integration in smart power grids, power system economics)
-- *Smart Cities* (e.g., smart buildings and smart communities, autonomous and electric vehicles, intelligent transportation) 
-- *Networking and Distributed Computing* (e.g., wireless networking, fog computing and edge computing, Internet of Things) 
-- Optimization, Stochastic Modeling and Analysis, Distributed Algorithms, Online Learning and Online Algorithms.
+== Research Interests
+- *Energy* (e.g., smart power grids, power systems, smart cities, autonomous and electric vehicles, intelligent transportation)
+- *Networking* (e.g., wireless communication, Internet of Things) 
+- *Computing* (e.g., cloud computing, fog/edge computing, parallel and distributed computing)
+
+Driven by emerging applications in the above areas, my research focuses on methodological developement for the design, analysis and optimization of system performance with tools from optimization theory, machine learning, queueing theory and stochastic process. 
 
 
 == Recent Papers
+- S. Agheb, X. Tan, B. Sun, and  D.H.K. Tsang, "Contract Design for Aggregating, Trading, and Distributing Reserves in Demand-side Frequency Regulation", conditionally accepted by IEEE Transactions on Industrial Informatics, 2017.
 - X. Tan, B. Sun, Y. Wu and D.H.K. Tsang, “Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles”, minor revision by Performance Evaluation (Elsevier), 2017. \[[https://arxiv.org/abs/1707.07175 ArXiv Preprint]\]
 - X. Tan, G. Qu, B. Sun, N. Li, and D.H.K. Tsang, “Optimal Scheduling of Battery Charging Stations Serving Electric Vehicles Based on Battery Swapping”, IEEE Transactions on Smart Grid, to appear. \[[documents/bcs_scheduling_ev_tsg.pdf PDF]\]
 - Y. Wu, L. Qian, H. Mao, X. Yang, H. Zhou, X. Tan, and D.H.K. Tsang, “Secrecy-Driven Resource Management for Vehicular Computation-Ofﬂoading Networks”, IEEE Network, to appear.
@@ -39,5 +41,4 @@ I am currently a Ph.D. student in the ECE Department at HKUST. Before joining HK
 Uncertainty", in submission. 
 - B. Sun, X. Tan, and D.H.K. Tsang, "Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach", under review, 2017.
 - S. Wang, B. Sun, T. Liu, X. Tan, and D.H.K. Tsang, "Real-time Interactions between Transmission and Distribution Networks", under review, 2017.
-- S. Agheb, X. Tan, B. Sun, and  D.H.K. Tsang, "Performance-based Allocation of Frequency Regulation Reserve in a Hierarchical Demand-Response Market", under review, 2017.
 - W. Li, X. Tan, B. Sun, and D.H.K. Tsang, "Optimal Power Dispatch of a Centralized Electric Vehicle Battery Charging Station with Renewables", under review, 2017.
