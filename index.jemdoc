@@ -22,12 +22,10 @@ I am currently a Ph.D. student in the ECE Department at HKUST. Before joining HK
 
 
 == Research Interests
-I am interested in energy and system related theories. Current topics of interests include
+I am interested in system optimization, learning algorithms, and stochastic models. Current applications include
 - Power and Energy Systems (e.g., energy storage, renewable energy integration, demand-side management).
-- Smart and Sustainable Cities (e.g., electric vehicles, energy-efficient buildings, intelligent transportation).
-- Energy-Efficient Networking and Computing (e.g., IoT, cloud computing, and fog/edge computing).
-- Optimization, Stochastic, Queueing, Machine Learning.
-
+- Smart and Sustainable Cities (e.g., electrified transportation networks, energy-efficient buildings, intelligent transportation).
+- Networking and Distributed Computing (e.g., architecture and resource allocation for fog/edge computing systems).
 
 == Recent Papers
 - X. Tan, B. Sun, Y. Wu and D.H.K. Tsang, "Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles", accepted by Performance Evaluation (Elsevier), December 2017. \[[https://arxiv.org/abs/1707.07175 ArXiv Preprint]\]
