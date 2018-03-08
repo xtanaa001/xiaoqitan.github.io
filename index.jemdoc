@@ -4,28 +4,23 @@
 ~~~
 {}{img_left}{photos/bio_new.jpg}{alt text}{163.5}{240}{http://xiaoqitan.org}
 
-Ph.D. Candidate,\n
-[http://www.ece.ust.hk Dept. of Electronic and Computer Engineering] (ECE),\n 
+Postdoctoral Fellow\n
+Research Group of [http://c2e.ece.ust.hk/main/ Computing, Communications and Energy System Optimization] (C2E)\n
+[http://www.ece.ust.hk Department of Electronic and Computer Engineering](ECE)\n 
 [http://www.ust.hk Hong Kong University of Science and Technology] (HKUST)\n
-\n
 
-R3117, Academic Building, \n
-HKUST, Clear Water Bay, Kowloon, Hong Kong.\n 
-Email: xtanaa${\text{[at]}}$ust.hk, ecexiaoqi.tan${\text{[at]}}$connect.ust.hk\n
-
-
-[https://scholar.google.com/citations?user=jUrkZwQAAAAJ&hl=en Google Scholar], [http://www.ece.ust.hk/ece.php/profile/studentdetail/977 Official Website], [http://c2e.ece.ust.hk/main/ C2E Group@HKUST]. 
+Office: R2418, Academic Building, HKUST, Clear Water Bay, Kowloon, Hong Kong\n 
+Email: xiaoqi.tan${\text{[at]}}$ieee.org, ecexiaoqi.tan${\text{[at]}}$connect.ust.hk\n
 ~~~
 
 == Biography
-I am currently a Ph.D. student in the ECE Department at HKUST. Before joining HKUST, I received my B.Eng. degree from the Dept. of Information and Communication Engineering (first class honor), Xi’an Jiaotong University, Xi’an (the home of [https://en.wikipedia.org/wiki/Terracotta_Army Terracotta Warriors and Horses]), China, 2012. I am now with the research group of [http://c2e.ece.ust.hk/main/ Computing, Communications and Energy System Optimization] (C2E) in ECE department at HKUST leading by Prof. [http://www.ece.ust.hk/~eetsang/ Danny H.K. Tsang]. From Oct. 2015 to May 2016, I was a fellow in School of Engineering and Applied Science (SEAS), Harvard University.
+I am currently a postdoctoral fellow in ECE@HKUST, where I did my Ph.D. with [http://www.ece.ust.hk/~eetsang/ Prof. Danny H.K. Tsang] from 2012 to 2017. In 2012, I received my B.Eng. (1st class honor) in communication engineering from Xi’an Jiaotong University. From Oct. 2015 to May 2016, I was a fellow in School of Engineering and Applied Science, Harvard University, hosted by [https://nali.seas.harvard.edu/ Prof. Na Li]. I will join University of Toronto as a postdoctoral fellow in July 2018. [/resume.html \[Resume\]]
 
 
 == Research
-I am interested in system optimization, learning algorithms, and stochastic models. Current topics of interest include
-- Power and Energy Systems (e.g., energy storage, renewable energy integration, demand-side management).
-- Smart and Sustainable Cities (e.g., electrified transportation networks, energy-efficient buildings, intelligent transportation).
-- Networking and Distributed Computing (e.g., architecture and resource allocation for fog/edge computing systems).
+~~~
+I am interested in i) *optimization and learning algorithms*, and ii) *performance modeling and stochastic analysis*, current topics of interest include smart energy and transportation (e.g., smart power grids, electrified transportation networks, smart cities), and edge/fog computing systems. [/publication_type.html \[Publications\]] [https://scholar.google.com/citations?user=jUrkZwQAAAAJ&hl=en \[Google Scholar\]]
+~~~
 
 == Recent Papers
 - X. Tan, B. Sun, Y. Wu and D.H.K. Tsang, "Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles", accepted by Performance Evaluation (Elsevier), December 2017. \[[https://arxiv.org/abs/1707.07175 ArXiv Preprint]\]
