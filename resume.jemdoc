@@ -1,13 +1,18 @@
 # jemdoc: menu{MENU}{resume.html},nofooter 
 ==Xiaoqi Tan
 
+== Employment
+~~~
+- Postdoctoral Fellow in ECE, HKUST, Clear Water Bay, Kowloon, Hong Kong,  Feb. 2018-Now. 
+~~~
+
 == Education
 ~~~
-- *Ph.D. in ECE, Hong Kong University of Science and Technology*, Hong Kong,  Sept. 2012--Jan. 2018. 
+- Ph.D. in ECE, HKUST, Clear Water Bay, Kowloon, Hong Kong,  Sept. 2012--Jan. 2018. 
 
-- *Fellow in School of Engineering and Applied Science, Harvard University*, Cambridge, MA, USA, Oct. 2015 - May. 2016. 
+- Fellow in School of Engineering and Applied Science, Harvard University, Cambridge, MA, USA, Oct. 2015 - May. 2016. 
 
-- *B.Eng. in Information and Communication Engineering, Xi'an Jiaotong University*, Xi'an, China, Sept. 2008-Jun. 2012. 
+- B.Eng. in Information and Communication Engineering, Xi'an Jiaotong University, Xi'an, China, Sept. 2008-Jun. 2012. 
 ~~~
 
 == Selected Awards
@@ -22,11 +27,15 @@
 ~~~
 
 == Teaching 
+Course Instructor (Guest Lecturer) at HKUST for the Following Courses:
+~~~
+- Current and Emerging Technologies in Telecommunications (EESM5900F), Spring 2017/18.
+~~~
 
 Teaching Assistant at HKUST for the Following Courses:
 ~~~
-- Computer Communication Networks (ELEC 4120), Spring 2012\/13, Fall 2013\/14.
-- A System View of Communications: from Signals to Packets (ELEC 1200), Spring 2013\/14.
+- Computer Communication Networks (ELEC4120), Spring 2012\/13, Fall 2013\/14.
+- A System View of Communications: from Signals to Packets (ELEC1200), Spring 2013\/14.
 ~~~
 
 == Talks
@@ -59,12 +68,5 @@ Teaching Assistant at HKUST for the Following Courses:
 	-- IEEE International Conference on Communication
 	-- IEEE Global Communications Conference
 	-- International Teletraffic Congress
-~~~
-
-== Membership
-~~~
-- Student Member, IEEE Communication Society
-- Student Member, IEEE Power & Energy Society
-- Student Member, IEEE Computer Society
 ~~~
 
