@@ -42,10 +42,10 @@ We are interested in all kinds of applications in smart cities, but primarily fo
 - S. Agheb, X. Tan, and D.H.K. Tsang, “Model Predictive Control of  Integrated Room Automation Considering Occupants Preference", in Proceedings of IEEE International Conference on Smart Grid Communications (IEEE SmartGridComm 2015), Nov. 2015. \[[documents/mpc_room_sgc.pdf PDF]\]
 ~~~
 
-== Energy-Efficient Networking and Computing
-Fog computing is a decentralized computing infrastructure in which data, computation, storage and applications are distributed in the most logical, efficient place between the data source and the cloud. Fog computing essentially extends cloud computing and services to the edge of the network, bringing the advantages and power of the cloud closer to where data is created and acted upon. The goal of fog computing is to improve efficiency and reduce the amount of data transported to the cloud for processing, analysis and storage. 
+== IoT and Edge\/Fog Computing
+Edge\/Fog computing is a decentralized computing infrastructure in which data, computation, storage and applications are distributed in the most logical, efficient place between the data source and the cloud. Edge\/Fog computing essentially extends cloud computing and services to the edge of the network, bringing the advantages and power of the cloud closer to where data is created and acted upon. The goal of edge\/fog computing is to improve efficiency and reduce the amount of data transported to the cloud for processing, analysis and storage. 
 
-With the increasing development of Internet of Things, e.g., tremendous networked and heterogeneous devices in smart cities or connected vehicles, we have an excellent opportunity to bring the ‘cloud’ closer to the edge and users as ‘fog’. Previously, we have worked on the optimal resource allocation for LET-A downlink with heterogeneous traffic types. Recently, we start to investigate many interesting engineering and economic problems in vehicular fog computing with slow-driving and/or parked vehicles. 
+With the development of IoT and 5G communication, e.g., tremendous networked and heterogeneous devices in smart cities or connected\/autonomous vehicles, we have an excellent opportunity to bring the ‘cloud’ closer to the edge and users as ‘fog’. Previously, we have worked on the optimal resource allocation for LET-A downlink with heterogeneous traffic types. Recently, we start to investigate many interesting computation and radio resource allocation problems in edge\/fog computing systems. 
 
 ~~~
 {}{img_left}{photos/networking_computing.jpg}{752}{800}{Networking and Distributed Computing}
