@@ -5,29 +5,55 @@
 {}{img_left}{photos/xiaoqi.jpg}{alt text}{132}{190}{http://xiaoqitan.org}
 
 Postdoctoral Fellow\n
-Research Group of [http://c2e.ece.ust.hk/main/ Computing, Communications and Energy System Optimization] (C2E)\n
-[http://www.ece.ust.hk Department of Electronic and Computer Engineering](ECE)\n 
-[http://www.ust.hk Hong Kong University of Science and Technology] (HKUST)\n
+[https://www.ece.utoronto.ca/ Department of Electrical and Computer Engineering ]\n 
+[https://www.utoronto.ca/ University of Toronto]\n
 
-Office: R2418, Academic Building, HKUST, Clear Water Bay, Kowloon, Hong Kong\n 
-Email: xtanaa${\text{[at]}}$connect.ust.hk, xiaoqi.tan${\text{[at]}}$ieee.org\n
+Room 7137, Bahen Centre\n
+40 St. George Street, Toronto, Ontario M5S 2E4, Canada \n 
+
+Email: x.y${\text{[at]}}$utoronto.ca, where x=xiaoqi, y=tan\n
 ~~~
 
 == Biography
-I am currently a postdoctoral fellow in ECE@HKUST, where I did my Ph.D. with [http://www.ece.ust.hk/~eetsang/ Prof. Danny H.K. Tsang] from 2012 to 2017. In 2012, I received my B.Eng. (1st class honor) in communication engineering from Xi’an Jiaotong University. From Oct. 2015 to May 2016, I was a fellow in School of Engineering and Applied Science, Harvard University, hosted by [https://nali.seas.harvard.edu/ Prof. Na Li]. I will join University of Toronto as a postdoctoral fellow in July 2018. [/resume.html \[Resume\]]
+I received my Ph.D. degree from the Department of Electronic and Computer Engineering, Hong Kong University of Science and Technology, in 2018, and my B.Eng. degree with First Class Honor from the Department of Information Engineering, Xi'an Jiaotong University, Xi'an, China, in 2012. From Oct. 2015 to May 2016, I was a visiting Ph.D. student in Electrical Engineering of the School of Engineering and Applied Science, Harvard University. I am currently a Postdoctoral Fellow at the Department of Electrical and Computer Engineering, University of Toronto, hosted by Professor [https://www.nal.utoronto.ca/ Alberto Leon-Garcia].  
 
 
-== Research
+== Research Interests
+My research generally lies in *Communication and Energy System Optimization*. Current topics of interests (with recent work) include: 
 ~~~
-My research lies in design, analysis and scheduling of Energy, Communication, and Computing (EC2) systems with tools from optimization, stochastic models, and machine learning. Current topics of interest include smart grids\/power systems, electric vehicle networks, wireless communication, edge\/fog computing systems. [/publication_type.html \[Publications\]] [https://scholar.google.com/citations?user=jUrkZwQAAAAJ&hl=en \[Google Scholar\]]
+1. _Stochastic Modeling and Optimization of Electric Vehicle Networks_
+- [https://arxiv.org/abs/1707.07175 Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles]\n
+  Xiaoqi Tan, Bo Sun, Yuan Wu and Danny H.K. Tsang\n
+  Performance Evaluation (Elsevier), December 2017.
+
+- [documents/bcs_scheduling_ev_tsg.pdf Optimal Scheduling of Battery Charging Stations Serving Electric Vehicles Based on Battery Swapping]\n
+  Xiaoqi Tan, Guannan Qu, Bo Sun, Na Li, and Danny H.K. Tsang \n
+  IEEE Transactions on Smart Grid, 2018.
+- [documents/operation_BSCS_QoS.pdf Optimal Charging Operation of Battery Swapping and Charging Stations with QoS Guarantee]\n
+  Bo Sun, Xiaoqi Tan, and Danny H.K. Tsang\n
+  IEEE Transactions on Smart Grid, 2018. 
+~~~ 
+  
+~~~
+2. _Flexibility and Uncertainty Management in Smart Grids and Power Systems_
+- Assessing the Value of Multi-Dimensional Load Flexibility in Electric Power Networks\n
+  Xiaoqi Tan and Danny H.K. Tsang, et al,\n
+  working paper.
+  
+- Multi-Dimensional Load Flexibility in Electricity Market\n
+  Su Wang, Tian Liu, Xiaoqi Tan, and Danny H.K. Tsang, \n
+  submitted.
+  
+- Market for Multi-dimensional Flexibility with Parametric Demand Response Bidding\n
+  Tian Liu, Bo Sun, Xiaoqi Tan, and Danny H.K. Tsang\n
+  in Proceedings of 49th North American Power Symposium, Sept. 2017.
 ~~~
 
-== Recent Papers
-- X. Tan, B. Sun, Y. Wu and D.H.K. Tsang, "Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles", accepted by Performance Evaluation (Elsevier), December 2017. \[[https://arxiv.org/abs/1707.07175 ArXiv Preprint]\]
-- W. Li, X. Tan, B. Sun, and D.H.K. Tsang, “Optimal Power Dispatch of a Centralized Electric Vehicle Battery Charging Station with Renewables”, accepted by IET Communications, December 2017.
-- S. Agheb, X. Tan, B. Sun, and  D.H.K. Tsang, "Contract Design for Aggregating, Trading, and Distributing Reserves in Demand-side Frequency Regulation", conditionally accepted by IEEE Transactions on Industrial Informatics, 2017.
-- X. Tan, G. Qu, B. Sun, N. Li, and D.H.K. Tsang, “Optimal Scheduling of Battery Charging Stations Serving Electric Vehicles Based on Battery Swapping”, IEEE Transactions on Smart Grid, to appear. \[[documents/bcs_scheduling_ev_tsg.pdf PDF]\]
+
+~~~
+3. _Internet of Things and Edge/Fog Computing for 5G Wireless Communication_
+- X. Tan and D.H.K. Tsang, et al, “Adaptive Edge Computing with Dynamic CPU Information in Edge Servers”, in preparation.
 - Y. Wu, L. Qian, H. Mao, X. Yang, H. Zhou, X. Tan, and D.H.K. Tsang, “Secrecy-Driven Resource Management for Vehicular Computation-Ofﬂoading Networks”, IEEE Network, to appear.
-- T. Liu, X. Tan, B. Sun, Y. Wu, and D.H.K. Tsang, "Energy Management of Cooperative Microgrids: A Distributed Optimization Approach", International Journal of Electrical Power and Energy Systems, to appear. \[[documents/distributed_MG_IJEPES.pdf PDF]\]
-- B. Sun, X. Tan, and D.H.K. Tsang, "Optimal Charging Operation of Battery Swapping and Charging Stations with QoS Guarantee", IEEE Transactions on Smart Grid, to appear. \[[documents/operation_BSCS_QoS.pdf PDF]\]
-- T. Liu, B. Sun, X. Tan, and D.H.K. Tsang, "Market for Multi-dimensional Flexibility with Parametric Demand Response Bidding", in Proceedings of 49th North American Power Symposium, Sept. 2017.
+~~~
+
+# [/resume.html \[Resume\]], [/publication_type.html \[Publications\]], [https://scholar.google.com/citations?user=jUrkZwQAAAAJ&hl=en \[Google Scholar\]]
