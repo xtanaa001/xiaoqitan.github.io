@@ -5,6 +5,7 @@
 {}{img_left}{photos/xiaoqi.jpg}{alt text}{132}{190}{http://xiaoqitan.org}
 
 Postdoctoral Fellow\n
+<<<<<<< HEAD
 [https://www.ece.utoronto.ca/ 
 The Edward S. Rogers Sr. Department of Electrical & Computer Engineering],\n
 [https://www.utoronto.ca/ University of Toronto]
@@ -37,5 +38,57 @@ I am currently a Postdoctoral Fellow at the Edward S. Rogers Sr. Department of E
 
 # Market for Multi-dimensional Flexibility with Parametric Demand Response Bidding, Tian Liu, Bo Sun, Xiaoqi Tan, and Danny H.K. Tsang, in Proceedings of 49th North American Power Symposium, Sept. 2017.
   
+=======
+[https://www.ece.utoronto.ca/ Department of Electrical and Computer Engineering ]\n 
+[https://www.utoronto.ca/ University of Toronto]\n
+
+Room 7137, Bahen Centre\n
+40 St. George Street, Toronto, Ontario M5S 2E4, Canada \n 
+
+Email: x.y${\text{[at]}}$utoronto.ca, where x=xiaoqi, y=tan\n
+~~~
+
+== Biography
+I received my Ph.D. degree from the Department of Electronic and Computer Engineering, Hong Kong University of Science and Technology, in 2018, and my B.Eng. degree with First Class Honor from the Department of Information Engineering, Xi'an Jiaotong University, Xi'an, China, in 2012. From Oct. 2015 to May 2016, I was a visiting Ph.D. student in Electrical Engineering of the School of Engineering and Applied Science, Harvard University. I am currently a Postdoctoral Fellow at the Department of Electrical and Computer Engineering, University of Toronto, hosted by Professor [https://www.nal.utoronto.ca/ Alberto Leon-Garcia].  
+
+
+== Research Interests
+My research generally lies in *Communication and Energy System Optimization*. Current topics of interests (with recent work) include: 
+~~~
+1. _Stochastic Modeling and Optimization of Electric Vehicle Networks_
+- [https://arxiv.org/abs/1707.07175 Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles]\n
+  Xiaoqi Tan, Bo Sun, Yuan Wu and Danny H.K. Tsang\n
+  Performance Evaluation (Elsevier), December 2017.
+
+- [documents/bcs_scheduling_ev_tsg.pdf Optimal Scheduling of Battery Charging Stations Serving Electric Vehicles Based on Battery Swapping]\n
+  Xiaoqi Tan, Guannan Qu, Bo Sun, Na Li, and Danny H.K. Tsang \n
+  IEEE Transactions on Smart Grid, 2018.
+- [documents/operation_BSCS_QoS.pdf Optimal Charging Operation of Battery Swapping and Charging Stations with QoS Guarantee]\n
+  Bo Sun, Xiaoqi Tan, and Danny H.K. Tsang\n
+  IEEE Transactions on Smart Grid, 2018. 
+~~~ 
+  
+~~~
+2. _Flexibility and Uncertainty Management in Smart Grids and Power Systems_
+- Assessing the Value of Multi-Dimensional Load Flexibility in Electric Power Networks\n
+  Xiaoqi Tan and Danny H.K. Tsang, et al,\n
+  working paper.
+  
+- Multi-Dimensional Load Flexibility in Electricity Market\n
+  Su Wang, Tian Liu, Xiaoqi Tan, and Danny H.K. Tsang, \n
+  submitted.
+  
+- Market for Multi-dimensional Flexibility with Parametric Demand Response Bidding\n
+  Tian Liu, Bo Sun, Xiaoqi Tan, and Danny H.K. Tsang\n
+  in Proceedings of 49th North American Power Symposium, Sept. 2017.
+~~~
+
+
+~~~
+3. _Internet of Things and Edge/Fog Computing for 5G Wireless Communication_
+- X. Tan and D.H.K. Tsang, et al, “Adaptive Edge Computing with Dynamic CPU Information in Edge Servers”, in preparation.
+- Y. Wu, L. Qian, H. Mao, X. Yang, H. Zhou, X. Tan, and D.H.K. Tsang, “Secrecy-Driven Resource Management for Vehicular Computation-Ofﬂoading Networks”, IEEE Network, to appear.
+~~~
+>>>>>>> origin/master
 
 # [/resume.html \[Resume\]], [/publication_type.html \[Publications\]], [https://scholar.google.com/citations?user=jUrkZwQAAAAJ&hl=en \[Google Scholar\]]
