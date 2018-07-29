@@ -14,12 +14,27 @@ Email: x.y${\text{[at]}}$utoronto.ca, x.y${\text{[at]}}$ieee.org, where x=xiaoqi
 ~~~
 
 == Biography
-I received my Ph.D. degree from the Department of Electronic and Computer Engineering, Hong Kong University of Science and Technology, in 2018, and my B.Eng. degree with First Class Honor from the Department of Information Engineering, Xi'an Jiaotong University, Xi'an, China, in 2012. From Oct. 2015 to May 2016, I was a fellow in Electrical Engineering of the School of Engineering and Applied Science, Harvard University. 
+I am currently a Postdoctoral Fellow at the Edward S. Rogers Sr. Department of Electrical and Computer Engineering, University of Toronto, hosted by Professor [https://www.nal.utoronto.ca/ Alberto Leon-Garcia]. I received my Ph.D. degree from the Department of Electronic and Computer Engineering, Hong Kong University of Science and Technology, in Jan. 2018, and my B.Eng. degree with First Class Honor from the Department of Information Engineering, Xi'an Jiaotong University, Xi'an, China, in 2012. From Oct. 2015 to May 2016, I was a visiting research fellow in the School of Engineering and Applied Science, Harvard University, Cambridge, MA, USA.
 
-I am currently a Postdoctoral Fellow at the Edward S. Rogers Sr. Department of Electrical and Computer Engineering, University of Toronto, hosted by Professor [https://www.nal.utoronto.ca/ Alberto Leon-Garcia]. I am broadly interested in network optimization, distributed and online algorithms, stochastic modeling and performance analysis. My current research lies at the intersection of [/research.html Energy, Communication and Transportation Networks]. 
+
+== Research
+I am generally interested in stochastic modeling, optimization and mechanism design, with major applications to smart grids, electric vehicle networks, and smart urban mobility. Specifically, the focus of my current research is threefold: 
+
+- *Stochastic Models*. To analyze the performance of a given networked systems with uncertainties (e.g., uncertainty of distributed energy resources in smart grid, temporal-spatial randomness of urban mobility systems), we need to establish stochastic models to represent the system dynamics based on reasonable assumptions. Typical performance modeling and analysis tools such as queueing theory, Markov chain, and stochastic processes will be frequently used. The goal is to derive analytical solutions and insight into the planning and design of real-world networks and systems. 
+
+- *Optimization under Uncertainty*. This is usually concerned about how to make sequential decisions to optimize the system performance subject to uncertainty. Depending on different applications, the decision-making process can either be centralized or distributed, offline or online, deterministic or probabilistic.  The goal is to design computationally-efficient algorithms that can guarantee optimality or sub-optimality with performance bounds based on tools such as Markov decision process, stochastic optimization, robust optimization, and online optimization, etc. 
+
+- *Mechanism Design*. Due to the existence of selfish participants and competition, sometimes it is difficult or even impossible to directly optimize the system performance without appropriate pricing and allocation strategies. Usually in such strategic settings, the approach is to design economic mechanisms or incentives, towards a desired objective,  based on the common assumption that players act rationally. Classic results and methods in mechanism design and algorithmic game theory will often be used. In particular, I am very interested in online mechanisms design for coordination in multi-agent systems in the presence of uncertainty. 
+
+My current research topics may be diverse at first glance, but all centered on applications in /smart cities/. In particular, I pay close attention to the nexus of future energy and mobility systems, supported by key technologies such as distributed energy resources in smart grids, intelligent transportation, autonomous vehicles, shared mobility, information and communication techniques, etc. 
+
+For more information about my current research projects, please see [/research.html Research] and [/publication_type.html Publication].
+
 
 
 == Latest News
+
++07/2018+: Our paper, "Online Price-based Vehicle-to-Station Recommendations for EV Battery Swapping", was accepted by IEEE SmartGridComm 2018.
 
 +07/2018+: Our paper, "Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach", was accepted by IEEE Transactions on Power Systems. 
 
