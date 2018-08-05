@@ -18,7 +18,7 @@ I am currently a Postdoctoral Fellow at the Edward S. Rogers Sr. Department of E
 
 
 == Research
-I am generally interested in stochastic modeling, optimization and mechanism design, with major applications to smart grids, electric vehicle networks, and smart urban mobility. Specifically, the focus of my current research is threefold: 
+I am generally interested in stochastic models, optimization and mechanism design, with major applications to smart grids, electric vehicle networks, and urban mobility systems. Specifically, the focus of my current research is threefold: 
 
 - *Stochastic Models*. To analyze the performance of a given networked systems with uncertainties (e.g., uncertainty of distributed energy resources in smart grid, temporal-spatial randomness of urban mobility systems), we need to establish stochastic models to represent the system dynamics based on reasonable assumptions. Typical performance modeling and analysis tools such as queueing theory, Markov chain, and stochastic processes will be frequently used. The goal is to derive analytical solutions and insight into the planning and design of real-world networks and systems. 
 
