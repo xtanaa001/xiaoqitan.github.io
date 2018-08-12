@@ -18,7 +18,7 @@ I am currently a Postdoctoral Fellow at the Edward S. Rogers Sr. Department of E
 
 
 == Research
-I am generally interested in stochastic models, optimization and mechanism design, with major applications to smart grids, electric vehicle networks, and urban mobility systems. Specifically, the focus of my current research is threefold: 
+I am generally interested in stochastic models, optimization and mechanism design, with major applications to smart power grids, electric vehicle networks, and urban mobility systems. Specifically, the focus of my current research is threefold: 
 
 - *Stochastic Models*. To analyze the performance of a given networked systems with uncertainties (e.g., uncertainty of distributed energy resources in smart grid, temporal-spatial randomness of urban mobility systems), we need to establish stochastic models to represent the system dynamics based on reasonable assumptions. Typical performance modeling and analysis tools such as queueing theory, Markov chain, and stochastic processes will be frequently used. The goal is to derive analytical solutions and insight into the planning and design of real-world networks and systems. 
 
@@ -26,7 +26,7 @@ I am generally interested in stochastic models, optimization and mechanism desig
 
 - *Mechanism Design*. Due to the existence of self-interested participants, sometimes it is difficult or even impossible to directly optimize the system performance without appropriate pricing and allocation strategies. Usually in such strategic settings, the approach is to design economic mechanisms or incentives, towards a desired objective,  based on the common assumption that players act rationally. Classic results and methods in mechanism design and algorithmic game theory will often be used. In particular, I am very interested in online mechanisms design for coordination in multi-agent systems in the presence of uncertainty. 
 
-The applications of my current research may be diverse at first glance, but all centered on /smart cities/. In particular, I pay close attention to the nexus of future energy and mobility systems, supported by key technologies or business models such as distributed energy resources in smart grids, intelligent transportation, autonomous vehicles, shared economy, information and communication techniques, etc. 
+The applications of my current research may be diverse at first glance, but all centered on *smart cities*. In particular, I pay close attention to future energy and urban mobility systems, supported by key technologies and business models such as distributed energy resources in smart power grids, autonomous and electric vehicles, shared economy, intelligent transportation, information and communication techniques, etc. 
 
 For more information about my current research projects, please see [/research.html Research] and [/publication_type.html Publication].
 
