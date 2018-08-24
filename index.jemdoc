@@ -5,12 +5,13 @@
 {}{img_left}{photos/xiaoqi.jpg}{alt text}{132}{190}{http://xiaoqitan.org}
 
 Postdoctoral Fellow\n
-[https://www.ece.utoronto.ca/ The Edward S. Rogers Sr. Department of Electrical & Computer Engineering],\n
+[https://www.ece.utoronto.ca/ Electrical & Computer Engineering],\n
 [https://www.utoronto.ca/ University of Toronto]
 
-Office: Room 7137, Bahen Centre, 40 St. George Street, Toronto, Ontario M5S 2E4, Canada \n 
+R7137, Bahen Centre, 40 St. George Street,\n
+Toronto, Ontario M5S 2E4, Canada \n 
 
-Email: x.y${\text{[at]}}$utoronto.ca, x.y${\text{[at]}}$ieee.org, where x=xiaoqi, y=tan\n
+Email: x.y${\text{[at]}}$utoronto.ca, where x=xiaoqi, y=tan\n
 ~~~
 
 == Biography
@@ -18,19 +19,29 @@ I am currently a Postdoctoral Fellow at the Edward S. Rogers Sr. Department of E
 
 
 == Research
-I am generally interested in stochastic models, optimization and mechanism design, with major applications to smart power grids, electric vehicle networks, and urban mobility systems. Specifically, the focus of my current research is threefold: 
 
-- *Stochastic Models*. To analyze the performance of a given networked systems with uncertainties (e.g., uncertainty of distributed energy resources in smart grid, temporal-spatial randomness of urban mobility systems), we need to establish stochastic models to represent the system dynamics based on reasonable assumptions. Typical performance modeling and analysis tools such as queueing theory, Markov chain, and stochastic processes will be frequently used. The goal is to derive analytical solutions and insight into the planning and design of real-world networks and systems. 
+- *Sequential Decision Making*. In artificial inteligence, sequential decision making is concerned about designing algorithms that take the dynamics of the world into consideration, and thus enable intelligent agents to take appropriate actions where earlier decisions influences the later ones. Key theoretic frameworks to studying sequential decision making under uncertainty include Markov decision process, reinforcement learning and approximate dynamic programming.  
 
-- *Optimization under Uncertainty*. This is usually concerned about how to make sequential decisions to optimize the system performance subject to uncertainty. Depending on different applications, the decision-making process can either be centralized or distributed, offline or online, deterministic or probabilistic.  The goal is to design computationally-efficient algorithms that can guarantee optimality or sub-optimality with performance bounds based on tools such as Markov decision process, stochastic optimization, robust optimization, and online optimization, etc. 
+#The goal is to design computationally-efficient algorithms that can guarantee optimality or sub-optimality with performance bounds. 
 
-- *Mechanism Design*. Due to the existence of self-interested participants, sometimes it is difficult or even impossible to directly optimize the system performance without appropriate pricing and allocation strategies. Usually in such strategic settings, the approach is to design economic mechanisms or incentives, towards a desired objective,  based on the common assumption that players act rationally. Classic results and methods in mechanism design and algorithmic game theory will often be used. In particular, I am very interested in online mechanisms design for coordination in multi-agent systems in the presence of uncertainty. 
+- *Mechanism Design of Multi-agent Systems*. Algorithmic mechanism design is concerned about designing distributed protocols that will lead to a desired objective despite the existence of self-interested participants or agents. In particular, online mechanism design of multi-agent systems in the presence of uncertainty lies at the intersection of economic game theory and theoretic computer science where analytical tools such as worst-case analysis of online algorithms and approximation algorithms are frequently used. 
 
-The applications of my current research may be diverse at first glance, but all centered on *smart cities*. In particular, I pay close attention to future energy and urban mobility systems, supported by key technologies and business models such as distributed energy resources in smart power grids, autonomous and electric vehicles, shared economy, intelligent transportation, information and communication techniques, etc. 
+- *Performance Modeling and Analysis*. Performance modeling and analysis plays an important role in characterizing the quality-of-service (QoS) of service systems subject to uncertainty. The goal is to derive analytical solutions and insight into the planning and design of such service systems with QoS guarantee, based on stochastic models including queueing theory and Markov chain, etc. 
+
+I am ehusiastic in applying the above techniques to applications that have profound environmental, economic and societal impact, including smart power grids, electrified transportation systems, and smart urban mobility. 
+
+#I am ehusiastic in developing new methodologies for the technical and economic management of smart power grids with high penetration of distributed energy resources such as wind, solar and energy storage.  In the absence of effective tools and methodologies, the power grid will experience frequency and voltage variations, and overloads of transformers and transmission lines, etc. One of the central issues confronting grid operators is that the current design of power distribution system is unaccustomed to intermittency or uncertainty, a major characteristic of distributed energy resources (DERs) such as wind and solar. Motivated by these challenges, 
+
+#- Electrified Transportation Systems. 
+#Increasing popularity of electric vehicles necessitates development of infrastructure networks to provide energy refueling services for electric vehicles based on plug-in charging and/or battery swapping. 
+
+#- Smart Mobility. 
+#One of the central issues confronting grid operators is that the current design of power distribution system is unaccustomed to intermittency or uncertainty, a major characteristic of distributed energy resources (DERs) such as wind and solar. In the absence of effective tools and methodologies to manage high levels of DERs, the power grid will experience frequency and voltage variations, and overloads of transformers and transmission lines, etc. Motivated by these challenges, I am ehusiastic in developing new methodologies for the technical and economic management of smart power grids with high penetration of DERs.  
+
 
 For more information about my current research projects, please see [/research.html Research] and [/publication_type.html Publication].
 
-
+#In particular, I pay close attention to future energy and urban mobility systems, supported by key technologies and business models such as distributed energy resources in smart power grids, autonomous and electric vehicles, shared economy, intelligent transportation, information and communication techniques, etc. 
 
 == Latest News
 
