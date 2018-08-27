@@ -24,7 +24,7 @@ I am currently a Postdoctoral Fellow at the Edward S. Rogers Sr. Department of E
 
 - *Sequential Decision Making*. In artificial inteligence, sequential decision making is concerned about designing algorithms that take the dynamics of the world into consideration, and thus enable intelligent agents to take appropriate actions where earlier decisions influences the later ones. Key theoretic frameworks to studying sequential decision making under uncertainty include Markov decision process, reinforcement learning and approximate dynamic programming.  
 
-- *Performance Modeling and Analysis*. Performance modeling and analysis plays an important role in characterizing the quality-of-service of service systems subject to uncertainty. The goal is to derive analytical solutions and insight into the planning and design of real-world systems  based on stochastic models including queueing theory and Markov chain, etc. 
+- *Performance Modeling and Analysis*. Performance modeling and analysis plays an important role in studying the quality-of- service of real-world service systems subject to uncertainty. The goal is to derive analytical solutions and insight into the design and operation of real-world service systems based on stochastic models including queueing theory and Markov chain, etc.
 
 #The goal is to design computationally-efficient algorithms that can guarantee optimality or sub-optimality with performance bounds. 
 
