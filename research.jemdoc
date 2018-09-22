@@ -1,18 +1,18 @@
 # jemdoc: menu{MENU}{research.html}, nofooter 
 == Research Description by Topics
 
-== 1. Mobility and Energy Systems for Uran Sustainability
-The concept of smart cities is an urban development vision aiming to improve the cities' sustainability and the citizens' quality of life. By 2050, 70% of the world's population is projected to live and work in cities, with transportation as major constituent. Electric vehicles have significantly higher energy efficiency when compared to gasoline- and diesel-fueled vehicles, which are widely believed to become mainstream in future urban mobility systems. From the perspective of energy systems, however, due to the rising charging demand from electric vehicles, the current power grids will be under strain in the absence of appropriate infrastructural and methodological improvement. _As a result, the urban mobility systems and energy systems will become increasingly correlated both in their design and operation, which yields many new challenges and requires a substantial research_.
-
-We are interested in all kinds of applications in smart cities, but primarily focus on the nexus of transportation and energy. We have been working on smart homes, smart buildings, and smart power grids, in which charging and discharging scheduling of electric vehicles plays a very important role. In particular, we investigate the planning and operation of energy refueling infrastructures for electric vehicles (including battery-swapping mode and plug-in charging mode) in smart cities. Meanwhile, we are also interested in mobility-as-a-service (e.g., DiDi Chuxing, Uber and Lyft) and mobility-on-demand systems based on autonomous electric vehicles. We believe that such new applications and business models will be a very important part of energy-transportation nexus in future smart cities.  
-
+== 1. Mobility and Energy Service Management in Future Smart Cities
+The concept of smart cities is an urban development vision aiming to improve the cities' sustainability and the citizens' quality of life. By 2050, 70% of the world's population is projected to live and work in cities, with transportation as major constituent. Electric vehicles (EVs) have significantly higher energy efficiency when compared to gasoline- and diesel-fueled vehicles, and are widely believed to become mainstream in future urban mobility systems. From the perspective of energy systems, however, due to the rising charging demand from EVs, the current power grids will be under strain in the absence of appropriate infrastructural and methodological improvement. As a result, substantial challenges have been rising in the design and operation of future urban mobility and energy systems.
 
 ~~~
-{}{img_left}{photos/smartcities.jpg}{752}{800}{Smart Cities}
+{}{img_left}{photos/Transportation.png}{752}{860}{Smart Cities}
 ~~~
+
+We are interested in all kinds of applications in smart cities, but primarily focus on the nexus of mobility and energy service management. We investigate the planning and operation of EV networks in smart cities. Meanwhile, we are also interested in mobility-as-a-service and mobility-on-demand systems based on autonomous electric vehicles. We believe that such new applications and business models will be a very important part of mobility-energy nexus in future smart cities.  
 
 ~~~
 {Selected Publications}:
+- X. Tan and A. Leon-Garcia, "Autonomous Mobility and Energy Service Management in Future Smart Cities: An Overview", \[Online\]. Available: [https://arxiv.org/abs/1707.07175 ArXiv].
 - L. Ni, B. Sun, X. Tan and D.H.K. Tsang, "Online Price-based Vehicle-to-Station Recommendations for EV Battery Swapping", accepted by IEEE International Conference on Smart Grid Communications (IEEE SmartGridComm 2018).
 - X. Tan, B. Sun, Y. Wu and D.H.K. Tsang, "Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles", accepted by Performance Evaluation (Elsevier), December 2017. \[[https://arxiv.org/abs/1707.07175 ArXiv Preprint]\]
 - X. Tan, G. Qu, B. Sun, N. Li, and D.H.K. Tsang, “Optimal Scheduling of Battery Charging Stations Serving Electric Vehicles Based on Battery Swapping”, IEEE Transactions on Smart Grid, to appear. \[[documents/bcs_scheduling_ev_tsg.pdf PDF]\]
@@ -23,7 +23,7 @@ We are interested in all kinds of applications in smart cities, but primarily fo
 
 
 
-== 2. Flexibility and Uncertainty Management in Smart Power Grids
+== 2. Demand-Side Flexibility and Uncertainty Management in Smart Power Grids
 One of the central issues confronting grid operators is that the current design of power distribution system is unaccustomed to intermittency or uncertainty, a major characteristic of distributed energy resources (DERs) such as wind and solar. In the absence of effective tools and methodologies to manage high levels of DERs, the power grid will experience frequency and voltage variations, overloads of transformers and transmission lines, phase load imbalances, and other variations from  operating standards of power grids. Given these challenges, new tools and methodologies must be developed for the technical and economic management of power grids with high penetration of DERs.  
 
 A promising solution to cope with the uncertainty of DERs is the integration of distributed battery energy storage (BES), or the coordinated management of an ever-growing number of electric vehicles (EVs). _The fundamental idea is to leaverage the flexibility associated with the charging and/or discharging of BES and EVs to accomodate the uncertainty brought by DERs_. In recent years, we have been working on many problems regarding planning and operation of BES. We propose new models and algorithms for analyzing the economic and lifetime performance of distributed BES systems in smart power grids. We also study how to integrate renewable energy in future smart power grids with EV battery charging stations. Meanwhile, we have also developed novel distributed algorithms for the energy management of cooperative microgrids with integration of BES. 
