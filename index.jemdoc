@@ -22,9 +22,9 @@ I am currently a Postdoctoral Fellow at the Edward S. Rogers Sr. Department of E
 
 - *Sequential Decision Making*. Sequential decision making is concerned about designing algorithms that take the dynamics of the world into consideration, and thus enable intelligent agents to take appropriate actions where earlier decisions influences the later ones. Key theoretic frameworks to studying sequential decision making under uncertainty include Markov decision process, reinforcement learning and approximate dynamic programming.  
 
-- *Mechanism Design*. Algorithmic mechanism design is concerned about designing distributed protocols that will lead to a desired objective despite the existence of self-interested participants or agents. In particular, online mechanism design of multi-agent systems in the presence of uncertainty lies at the intersection of economic game theory and theoretic computer science where analytical tools such as worst-case analysis of online algorithms and approximation algorithms are frequently used. 
+- *Algorithmic Mechanism Design*. Algorithmic mechanism design is concerned about designing distributed protocols that will lead to a desired objective despite the existence of self-interested participants or agents. In particular, online mechanism design of multi-agent systems in the presence of uncertainty lies at the intersection of economic game theory and theoretic computer science where analytical tools such as worst-case analysis of online algorithms and approximation algorithms are frequently used. 
 
-- *Performance Modeling and Analysis*. Performance modeling and analysis plays an important role in studying the quality-of- service of real-world service systems subject to uncertainty. The goal is to derive analytical solutions and insight into the design and operation of real-world service systems based on stochastic models including queueing theory and Markov chain, etc.
+- *Performance Evaluation*. Performance evaluation plays an important role in modeling and analyzing the quality-of- service of real-world service systems subject to uncertainty. The goal is to derive analytical solutions and insight into the design and operation of real-world service systems based on stochastic models including queueing theory and Markov chain, etc.
 
 #The goal is to design computationally-efficient algorithms that can guarantee optimality or sub-optimality with performance bounds. 
 
@@ -42,7 +42,7 @@ For more information about my current research projects, please see [/research.h
 #In particular, I pay close attention to future energy and urban mobility systems, supported by key technologies and business models such as distributed energy resources in smart power grids, autonomous and electric vehicles, shared economy, intelligent transportation, information and communication techniques, etc. 
 
 == Latest News
-+09/2018+: Our paper, "Autonomous Mobility and Energy Service Management in Future Smart Cities: An Overview", is available via [https://arxiv.org/abs/1707.07175 ArXiv].
+#+09/2018+: Our paper, "Autonomous Mobility and Energy Service Management in Future Smart Cities: An Overview", is available via [https://arxiv.org/abs/1707.07175 ArXiv].
    
 +07/2018+: Our paper, "Online Price-based Vehicle-to-Station Recommendations for EV Battery Swapping", was accepted by IEEE SmartGridComm 2018.
 
