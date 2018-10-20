@@ -20,15 +20,18 @@ I am currently a Postdoctoral Fellow at the Edward S. Rogers Sr. Department of E
 
 == Research
 
-- *Sequential Decision Making*. Sequential decision making is concerned about designing algorithms that take the dynamics of the world into consideration, and thus enable intelligent agents to take appropriate actions where earlier decisions influences the later ones. Key theoretic frameworks to studying sequential decision making under uncertainty include Markov decision process, reinforcement learning and approximate dynamic programming.  
+My research interests lie in mechanism design, online optimization, and performance evaluation of large-scale systems of various types, e.g., smart grids/power systems, urban mobility systems and communication systems. In particular, my recent research mainly focuses on online resource allocation and management of large-scale systems with self-interested agents and uncertain future information, where incentive and mechanism design, pricing, and competitive analysis of online algorithms play a critical role. 
 
-- *Algorithmic Mechanism Design*. Algorithmic mechanism design is concerned about designing distributed protocols that will lead to a desired objective despite the existence of self-interested participants or agents. In particular, online mechanism design of multi-agent systems in the presence of uncertainty lies at the intersection of economic game theory and theoretic computer science where analytical tools such as worst-case analysis of online algorithms and approximation algorithms are frequently used. 
+For more information about my current research projects, please see [/research.html Research] and [/publication_type.html Publication].
 
-- *Performance Evaluation*. Performance evaluation plays an important role in modeling and analyzing the quality-of- service of real-world service systems subject to uncertainty. The goal is to derive analytical solutions and insight into the design and operation of real-world service systems based on stochastic models including queueing theory and Markov chain, etc.
+#- *Mechanism Design*. Algorithmic mechanism design is concerned about designing distributed protocols that will lead to a desired objective despite the existence of self-interested agents. In particular, online mechanism design of multi-agent systems in the presence of uncertainty lies at the intersection of economic game theory and theoretic computer science where analytical tools such as worst-case analysis of online algorithms and approximation algorithms are frequently used. 
+
+#- *Performance Evaluation*. Performance evaluation plays an important role in modeling and analyzing the quality-of- service of real-world service systems subject to uncertainty. The goal is to derive analytical solutions and insight into the design and operation of real-world service systems based on stochastic models including queueing theory and Markov chain, etc.
+
+#- *Sequential Decision Making*. Sequential decision making is concerned about designing algorithms that take the dynamics of the world into consideration, and thus enable intelligent agents to take appropriate actions where earlier decisions influences the later ones. Key theoretic frameworks to studying sequential decision making under uncertainty include Markov decision process, reinforcement learning and approximate dynamic programming.  
+
 
 #The goal is to design computationally-efficient algorithms that can guarantee optimality or sub-optimality with performance bounds. 
-
-I am ehusiastic in applying the above techniques to applications that have profound environmental, economic and societal impact, including smart power grids, electric vehicle networks, and urban mobility systems. 
 
 #I am ehusiastic in developing new methodologies for the technical and economic management of smart power grids with high penetration of distributed energy resources such as wind, solar and energy storage.  In the absence of effective tools and methodologies, the power grid will experience frequency and voltage variations, and overloads of transformers and transmission lines, etc. One of the central issues confronting grid operators is that the current design of power distribution system is unaccustomed to intermittency or uncertainty, a major characteristic of distributed energy resources (DERs) such as wind and solar. Motivated by these challenges, 
 #- Electrified Transportation Systems. 
@@ -36,15 +39,13 @@ I am ehusiastic in applying the above techniques to applications that have profo
 #- Smart Mobility. 
 #One of the central issues confronting grid operators is that the current design of power distribution system is unaccustomed to intermittency or uncertainty, a major characteristic of distributed energy resources (DERs) such as wind and solar. In the absence of effective tools and methodologies to manage high levels of DERs, the power grid will experience frequency and voltage variations, and overloads of transformers and transmission lines, etc. Motivated by these challenges, I am ehusiastic in developing new methodologies for the technical and economic management of smart power grids with high penetration of DERs.  
 
-
-For more information about my current research projects, please see [/research.html Research] and [/publication_type.html Publication].
-
 #In particular, I pay close attention to future energy and urban mobility systems, supported by key technologies and business models such as distributed energy resources in smart power grids, autonomous and electric vehicles, shared economy, intelligent transportation, information and communication techniques, etc. 
 
 == Latest News
-#+09/2018+: Our paper, "Autonomous Mobility and Energy Service Management in Future Smart Cities: An Overview", is available via [https://arxiv.org/abs/1707.07175 ArXiv].
 
-+09/2018+: Our paper, "[https://www.sciencedirect.com/science/article/pii/S0166531617303905 Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles]", appears in the list of [https://www.journals.elsevier.com/performance-evaluation/most-downloaded-articles Most Downloaded Performance Evaluation Articles].
++10/2018+: Our conceptual paper, "Autonomous Mobility and Energy Service Management in Future Smart Cities: An Overview", was accepted by IEEE International Conference on Universal Village 2018. \[[https://arxiv.org/pdf/1810.04576.pdf arXiv version]\].
+
++08/2018+: Our paper, "[https://www.sciencedirect.com/science/article/pii/S0166531617303905 Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles]", appears in the list of [https://www.journals.elsevier.com/performance-evaluation/most-downloaded-articles Most Downloaded Performance Evaluation Articles].
    
 +07/2018+: Our paper, "Online Price-based Vehicle-to-Station Recommendations for EV Battery Swapping", was accepted by IEEE SmartGridComm 2018.
 
@@ -52,10 +53,10 @@ For more information about my current research projects, please see [/research.h
 
 +07/2018+: I joined University of Toronto as a Postdoctoral Fellow at the Edward S. Rogers Sr. Department of Electrical & Computer Engineering, hosted by Professor [https://www.nal.utoronto.ca/ Alberto Leon-Garcia]. 
 
-+06/2018+: Our research proposal, "Harnessing Electric Vehicles for Energy Management Optimization in Sustainable Smart Cities", got funded by Research Grants Council, Hong Kong. 
+#+06/2018+: Our research proposal, "Harnessing Electric Vehicles for Energy Management Optimization in Sustainable Smart Cities", got funded by Research Grants Council, Hong Kong. 
 
-+01/2018+: I successfully defended my Ph.D. thesis, "Smart Grid with Distributed Energy Storage and Electric Vehicles: Performance Evaluation and Optimization", on January 5, 2018. My sincere gratitude goes to my supervisor Professor [http://www.ece.ust.hk/~eetsang/ Danny H.K. Tsang]. 
+#+01/2018+: I successfully defended my Ph.D. thesis, "Smart Grid with Distributed Energy Storage and Electric Vehicles: Performance Evaluation and Optimization", on January 5, 2018. My sincere gratitude goes to my supervisor Professor [http://www.ece.ust.hk/~eetsang/ Danny H.K. Tsang]. 
 
-+12/2017+: Our paper, "[https://arxiv.org/abs/1707.07175 Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles]", was accepted by Performance Evaluation (Elsevier).
+#+12/2017+: Our paper, "[https://arxiv.org/abs/1707.07175 Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles]", was accepted by Performance Evaluation (Elsevier).
 
-+10/2017+: Our paper, "[documents/bcs_scheduling_ev_tsg.pdf Optimal Scheduling of Battery Charging Stations Serving Electric Vehicles Based on Battery Swapping]", was accepted by IEEE Transactions on Smart Grid.
+#+10/2017+: Our paper, "[documents/bcs_scheduling_ev_tsg.pdf Optimal Scheduling of Battery Charging Stations Serving Electric Vehicles Based on Battery Swapping]", was accepted by IEEE Transactions on Smart Grid.
