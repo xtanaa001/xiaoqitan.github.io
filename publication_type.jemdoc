@@ -1,15 +1,15 @@
 # jemdoc: menu{MENU}{publication_type.html}, nofooter  
 == Publications by [/publication_type.html Type]||[/publication_year.html Year]
 
-== Preprints
-. S. Wang, B. Sun, T. Liu, X. Tan, and D.H.K. Tsang, "Real-time Interactions between Transmission and Distribution Networks", under review.
+# == Preprints
+#. S. Wang, B. Sun, T. Liu, X. Tan, and D.H.K. Tsang, "Real-time Interactions between Transmission and Distribution Networks", under review.
 
 == Journal Papers
 . B. Sun, X. Tan, and D.H.K. Tsang, "Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach", accepted by IEEE Transactions on Power Systems, July 2018. \[[documents/MDF_mechanism_TPS.pdf PDF]\]
 . Y. Wu, L. Qian, H. Mao, X. Yang, H. Zhou, X. Tan, and D.H.K. Tsang, "Secrecy-Driven Resource Management for Vehicular Computation-Ofﬂoading Networks", IEEE Network, vol. 32, no. 3, pp. 84-91, June 2018.
-. X. Tan, B. Sun, Y. Wu and D.H.K. Tsang, "Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles", accepted by Performance Evaluation (Elsevier), December 2017. \[[https://arxiv.org/abs/1707.07175 ArXiv Preprint]\]
+. X. Tan, B. Sun, Y. Wu and D.H.K. Tsang, "Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles", Performance Evaluation (Elsevier), vol. 119, pp. 43-57, March 2018. \[[https://arxiv.org/abs/1707.07175 ArXiv]\]
 . W. Li, X. Tan, B. Sun, and D.H.K. Tsang, “Optimal Power Dispatch of a Centralized Electric Vehicle Battery Charging Station with Renewables”, IET Communications, to appear.
-. S. Agheb, X. Tan, B. Sun, and  D.H.K. Tsang, "Contract Design for Aggregating, Trading, and Distributing Reserves in Demand-side Frequency Regulation", conditionally accepted by IEEE Transactions on Industrial Informatics, December 2017.
+. S. Agheb, X. Tan, B. Sun, and  D.H.K. Tsang, "Contract Design for Aggregating, Trading, and Distributing Reserves in Demand-side Frequency Regulation", IEEE Transactions on Industrial Informatics, December 2017.
 . X. Tan, G. Qu, B. Sun, N. Li, and D.H.K. Tsang, "Optimal Scheduling of Battery Charging Stations Serving Electric Vehicles Based on Battery Swapping", IEEE Transactions on Smart Grid, to appear. \[[documents/bcs_scheduling_ev_tsg.pdf PDF]\]
 . T. Liu, X. Tan, B. Sun, Y. Wu, and D.H.K. Tsang, "Energy Management of Cooperative Microgrids: A Distributed Optimization Approach",
 International Journal of Electrical Power and Energy Systems, to appear. \[[documents/distributed_MG_IJEPES.pdf PDF]\]
@@ -22,7 +22,9 @@ International Journal of Electrical Power and Energy Systems, to appear. \[[docu
 
 
 == Conferences Papers
-. L. Ni, B. Sun, X. Tan and D.H.K. Tsang, "Online Price-based Vehicle-to-Station Recommendations for EV Battery Swapping", accepted by IEEE International Conference on Smart Grid Communications (IEEE SmartGridComm 2018).
+. X. Tan and A. Leon-Garcia, "Autonomous Mobility and Energy Service Management in Future Smart Cities: An Overview", in Proceedings of IEEE UV 2018, MIT, Boston, MA, USA. \[[https://arxiv.org/abs/1810.04576 ArXiv]\].
+. L. Ni, B. Sun, X. Tan and D.H.K. Tsang, "Online Price-based Vehicle-to-Station Recommendations for EV Battery Swapping", in Proceedings of IEEE SmartGridComm 2018, Aalborg, Denmark.
+. A. Zhang, B. Sun, T. Liu, X. Tan, S. Wang and D.H.K. Tsang, “Joint Voltage and Frequency Regulation by EV Charging Scheduling in the Distribution Network,” in Proceedings of ISGT, 2018.
 . S. Wang, B. Sun, T. Liu, X. Tan, and D.H.K. Tsang, “Real-time Market-based Coordination Mechanism for Transmission and Distribution Networks”, in Proceedings of IEEE International Conference on Smart Grid Communications (IEEE SmartGridComm 2017), Oct. 2017.
 . T. Liu, B. Sun, X. Tan, and D.H.K. Tsang, "Market for Multi-Dimensional Flexibility with Parametric Demand Response Bidding", in Proceedings of 49th North American Power Symposium, Sept. 2017.
 . S. Agheb, X. Tan, B. Sun, and D.H.K. Tsang, "Robust Provisioning of Demand-Side Flexibility Under Electricity Price Uncertainty", in Proceedings of 2016 IEEE International Conference on Industrial Technology (ICIT 2016), Taiwan, March 2016.

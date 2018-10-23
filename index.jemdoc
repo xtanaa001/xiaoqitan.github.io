@@ -20,9 +20,7 @@ I am currently a Postdoctoral Fellow at the Edward S. Rogers Sr. Department of E
 
 == Research
 
-My research interests lie in mechanism design, optimal operation, and performance evaluation of large-scale systems of various types, e.g., energy systems, communication systems and urban mobility systems. In particular, my recent research mainly focuses on online resource allocation and management of multi-agent systems in smart cities, where incentive and mechanism design, pricing, and competitive analysis of online algorithms play a critical role. 
-
-For more information about my current research projects, please see [/research.html Research] and [/publication_type.html Publication].
+My research interests lie in optimization, performance evaluation, and mechanism design of large-scale systems, with a particular focus on energy systems and communication systems. For more information about my current research projects, please see [/research.html Research] and [/publication_type.html Publication].
 
 #- *Mechanism Design*. Algorithmic mechanism design is concerned about designing distributed protocols that will lead to a desired objective despite the existence of self-interested agents. In particular, online mechanism design of multi-agent systems in the presence of uncertainty lies at the intersection of economic game theory and theoretic computer science where analytical tools such as worst-case analysis of online algorithms and approximation algorithms are frequently used. 
 
