@@ -20,7 +20,7 @@ I am currently a Postdoctoral Fellow at the Edward S. Rogers Sr. Department of E
 
 == Research
 
-My research interests lie in performance modeling and optimization of large-scale systems based on tools from optimization, mechanism design, stochastic models, and machine learning. Examples of past and current applications include smart grid and power systems, urban mobility and smart cities, cloud computing and fog/edge computing.
+My research interests broadly lie in performance modeling and optimization of networked systems, based on tools from optimization, mechanism design, stochastic models, and machine learning. Examples of past and current applications include power and energy systems,  smart mobility and smart cities, cloud computing and fog/edge computing.
 
 For more information about my current research projects, please see [/research.html Current Research] and [/publication_type.html Publication]. 
 
@@ -44,19 +44,17 @@ For more information about my current research projects, please see [/research.h
 #In particular, I pay close attention to future energy and urban mobility systems, supported by key technologies and business models such as distributed energy resources in smart power grids, autonomous and electric vehicles, shared economy, intelligent transportation, information and communication techniques, etc. 
 
 == Latest News
-~~~
--_10/2018_: I gave an invited talk at The 10th CASCON Workshop on Cloud Computing. The title of my talk is: Enabling Intelligent Decision-Making in Smart Cities: When Internet of Things Meets Multi-Agent Systems. 
 
--_10/2018_: Our conceptual paper, "Autonomous Mobility and Energy Service Management in Future Smart Cities: An Overview", was accepted by IEEE International Conference on Universal Village 2018. \[[https://arxiv.org/pdf/1810.04576.pdf arXiv version]\].
++10/2018+: Our conceptual paper, "Autonomous Mobility and Energy Service Management in Future Smart Cities: An Overview", was accepted by IEEE International Conference on Universal Village 2018. \[[https://arxiv.org/pdf/1810.04576.pdf arXiv version]\].
 
-- _08/2018_: Our paper, "[https://www.sciencedirect.com/science/article/pii/S0166531617303905 Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles]", appears in the list of [https://www.journals.elsevier.com/performance-evaluation/most-downloaded-articles Most Downloaded Performance Evaluation Articles].
++08/2018+: Our paper, "[https://www.sciencedirect.com/science/article/pii/S0166531617303905 Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles]", appears in the list of [https://www.journals.elsevier.com/performance-evaluation/most-downloaded-articles Most Downloaded Performance Evaluation Articles].
    
-- _07/2018_: Our paper, "Online Price-based Vehicle-to-Station Recommendations for EV Battery Swapping", was accepted by IEEE SmartGridComm 2018.
++07/2018+: Our paper, "Online Price-based Vehicle-to-Station Recommendations for EV Battery Swapping", was accepted by IEEE SmartGridComm 2018.
 
-- _07/2018_: Our paper, "[documents/MDF_mechanism_TPS.pdf Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach]", was accepted by IEEE Transactions on Power Systems. 
++07/2018+: Our paper, "[documents/MDF_mechanism_TPS.pdf Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach]", was accepted by IEEE Transactions on Power Systems. 
 
-- _07/2018_: I joined University of Toronto as a Postdoctoral Fellow at the Edward S. Rogers Sr. Department of Electrical & Computer Engineering, hosted by Professor [https://www.nal.utoronto.ca/ Alberto Leon-Garcia]. 
-~~~
++07/2018+: I joined University of Toronto as a Postdoctoral Fellow at the Edward S. Rogers Sr. Department of Electrical & Computer Engineering, hosted by Professor [https://www.nal.utoronto.ca/ Alberto Leon-Garcia]. 
+
 
 #+06/2018+: Our research proposal, "Harnessing Electric Vehicles for Energy Management Optimization in Sustainable Smart Cities", got funded by Research Grants Council, Hong Kong. 
 
