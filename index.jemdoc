@@ -20,7 +20,7 @@ I am currently a Postdoctoral Fellow at the Edward S. Rogers Sr. Department of E
 
 == Research
 
-My research interests lie in resource allocation and management of large-scale systems, with a particular focus on energy systems and communication systems. More specifically, my research features performance modeling and algorithm design for large-scale systems based on tools from optimization, algorithmic mechanism design, stochastic models, and machine learning. Examples of past and current applications include electric vehicle networks, demand-side management in smart grid, urban mobility and energy systems, cloud computing and mobile edge computing.  
+My research interests lie in performance modeling and optimization of large-scale systems based on tools from optimization, mechanism design, stochastic models, and machine learning. Examples of past and current applications include smart grid and power systems, urban mobility and smart cities, cloud computing and fog/edge computing.
 
 For more information about my current research projects, please see [/research.html Current Research] and [/publication_type.html Publication]. 
 
@@ -45,7 +45,9 @@ For more information about my current research projects, please see [/research.h
 
 == Latest News
 ~~~
-- _10/2018_: Our conceptual paper, "Autonomous Mobility and Energy Service Management in Future Smart Cities: An Overview", was accepted by IEEE International Conference on Universal Village 2018. \[[https://arxiv.org/pdf/1810.04576.pdf arXiv version]\].
+-_10/2018_: I gave an invited talk at The 10th CASCON Workshop on Cloud Computing. The title of my talk is: Enabling Intelligent Decision-Making in Smart Cities: When Internet of Things Meets Multi-Agent Systems. 
+
+-_10/2018_: Our conceptual paper, "Autonomous Mobility and Energy Service Management in Future Smart Cities: An Overview", was accepted by IEEE International Conference on Universal Village 2018. \[[https://arxiv.org/pdf/1810.04576.pdf arXiv version]\].
 
 - _08/2018_: Our paper, "[https://www.sciencedirect.com/science/article/pii/S0166531617303905 Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles]", appears in the list of [https://www.journals.elsevier.com/performance-evaluation/most-downloaded-articles Most Downloaded Performance Evaluation Articles].
    
