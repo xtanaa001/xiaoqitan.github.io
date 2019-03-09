@@ -15,14 +15,15 @@ body {
 	font-family: Georgia, serif;
 	padding-bottom: 0px;
 	margin: 0;
-        background-image:url('backgroundpic.jpg');
+        background-image:url('backgroundpic2.jpg');
 	background-repeat:repeat;
 	background-position:right top;
 
 }
 
 #layout-menu {
-	background: #f6f6f6;
+	/*background: #f6f6f6;*/
+	background: #00204e;
 	border: 1px solid #dddddd;
 	padding-top: 0.5em;
 	padding-left: 8px;
@@ -30,13 +31,14 @@ body {
 	font-size: 1.0em;
 	width: auto;
 	white-space: nowrap;
-    	text-align: left;
-    	vertical-align: top;
-        background-image:url('qingmingshanghetu.jpg');
+    text-align: left;
+    vertical-align: top;
+	background-image:url('qingmingshanghetu.jpg');
 	background-repeat:repeat;
 	background-position:left top;
 
 }
+
 
 #layout-menu td {
 	background: #f4f4f4;
@@ -79,12 +81,12 @@ a:hover {
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #022b6d;
+	/*color: #022b6d;*/
+	color: #00204e;  
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	/*color: #527bbd;*/
-	color: #3A66A7;
+	color: #00204e;
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -133,7 +135,7 @@ strong {
 
 h1, h2, h3 {
 	/*color: #527bbd;*/
-	color: #4169E1;
+	color: #00204e;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
