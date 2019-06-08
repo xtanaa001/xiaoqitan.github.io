@@ -1,55 +1,64 @@
 # jemdoc: menu{MENU}{publication_year.html}, nofooter  
 == Publications by [/publication_type.html Type]||[/publication_year.html Year]
 
-#== Preprints
-#. S. Wang, B. Sun, T. Liu, X. Tan, and D.H.K. Tsang, "Real-time Interactions between Transmission and Distribution Networks", under review.
+== Preprints
+- *X. Tan*, A. Leon-Garcia, B. Sun and D.H.K. Tsang, "An Adaptive Algorithm for Online Resource Allocation in Fog Computing", preprint.
+- *X. Tan*, A. Leon-Garcia, B. Sun and D.H.K. Tsang, "Online Mechanism Design for Demand-Side Flexibility Management", preprint. Extended abstract appeared in ACM e-Energy in 2019. 
+- *X. Tan*, A. Leon-Garcia, B. Sun and D.H.K. Tsang, "Online Resource Allocation with Supply Costs and Capacity Limits: A Unified Framework", preprint. Earlier version appeared in ACM MAMA in 2019.
+
+- *X. Tan*, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, "Posted-Price  Retailing of Transactive Energy: An Optimal Online  Mechanism without Prediction", under review. 
+#- T. Liu, *X. Tan*, S. Wu, and D.H.K. Tsang, "Robust Economic Dispatch with Flexible Demand and Adjustable Uncertainty Set", preprint.
+#- T. Liu, B. Sun, *X. Tan*, and D.H.K. Tsang, "Chance-Constrained Economic Dispatch with Flexible Loads and RES", preprint.
+#- S. Wang, B. Sun, T. Liu, *X. Tan*, and D.H.K. Tsang, "Real-time Interactions between Transmission and Distribution Networks", preprint.
+#- S. Wang, *X. Tan*, T. Liu, and D.H.K. Tsang, "Aggregation of Demand-Side Flexibility in Electricity Markets: Negative Impact Analysis and Mitigation Method", preprint.
 
 == 2019
-. X. Tan, G. Qu, B. Sun, N. Li, and D.H.K. Tsang, "Optimal Scheduling of Battery Charging Stations Serving Electric Vehicles Based on Battery Swapping", IEEE Transactions on Smart Grid, vol. 10, no. 2, March 2019. \[[documents/bcs_scheduling_ev_tsg.pdf PDF]\]
-. L. Liu, B. Sun, X. Tan, Y.S. Xiao, D.H.K. Tsang, "Energy-efficient Resource Allocation and Channel Assignment for NOMA-based Mobile Edge Computing", in Proceedings of IEEE Wireless Communications and Networking Conference (WCNC), April. 2019, Marrakech, Morocco. 
+. *X. Tan*, A. Leon-Garcia and D.H.K. Tsang, "Optimal Posted Prices for Online Resource Allocation with Supply Costs", in Proceedings of ACM MAMA, 2019.
+. *X. Tan*, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, "A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals", \[Extended Abstract\], ACM e-Energy 2019. 
+. *X. Tan*, G. Qu, B. Sun, N. Li, and D.H.K. Tsang, "Optimal Scheduling of Battery Charging Stations Serving Electric Vehicles Based on Battery Swapping", IEEE Transactions on Smart Grid, vol. 10, no. 2, March 2019. \[[documents/bcs_scheduling_ev_tsg.pdf PDF]\]
+. L. Liu, B. Sun, *X. Tan*, Y.S. Xiao, D.H.K. Tsang, "Energy-efficient Resource Allocation and Channel Assignment for NOMA-based Mobile Edge Computing", in Proceedings of IEEE Wireless Communications and Networking Conference (WCNC), April. 2019, Marrakech, Morocco. 
 
 == 2018
-. X. Tan and A. Leon-Garcia, "Autonomous Mobility and Energy Service Management in Future Smart Cities: An Overview", in Proceedings of IEEE UV 2018, MIT, Boston, MA, USA. \[[https://arxiv.org/abs/1810.04576 ArXiv]\].
-. L. Ni, B. Sun, X. Tan and D.H.K. Tsang, "Online Price-based Vehicle-to-Station Recommendations for EV Battery Swapping", in Proceedings of IEEE SmartGridComm 2018, Aalborg, Denmark.
-. B. Sun, X. Tan, and D.H.K. Tsang, "Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach", accepted by IEEE Transactions on Power Systems, July 2018. \[[documents/MDF_mechanism_TPS.pdf PDF]\]
-. Y. Wu, L. Qian, H. Mao, X. Yang, H. Zhou, X. Tan, and D.H.K. Tsang, "Secrecy-Driven Resource Management for Vehicular Computation-Ofﬂoading Networks", IEEE Network, vol. 32, no. 3, pp. 84-91, June 2018.
-. X. Tan, B. Sun, Y. Wu and D.H.K. Tsang, "Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles", Performance Evaluation (Elsevier), vol. 119, pp. 43-57, March 2018. \[[https://arxiv.org/abs/1707.07175 ArXiv]\]
-. A. Zhang, B. Sun, T. Liu, X. Tan, S. Wang and D.H.K. Tsang, “Joint Voltage and Frequency Regulation by EV Charging Scheduling in the Distribution Network,” in Proceedings of ISGT, 2018.
+. *X. Tan* and A. Leon-Garcia, "Autonomous Mobility and Energy Service Management in Future Smart Cities: An Overview", in Proceedings of IEEE UV 2018, MIT, Boston, MA, USA. \[[https://arxiv.org/abs/1810.04576 ArXiv]\].
+. L. Ni, B. Sun, *X. Tan* and D.H.K. Tsang, "Online Price-based Vehicle-to-Station Recommendations for EV Battery Swapping", in Proceedings of IEEE SmartGridComm 2018, Aalborg, Denmark.
+. B. Sun, *X. Tan*, and D.H.K. Tsang, "Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach", accepted by IEEE Transactions on Power Systems, July 2018. \[[documents/MDF_mechanism_TPS.pdf PDF]\]
+. Y. Wu, L. Qian, H. Mao, X. Yang, H. Zhou, *X. Tan*, and D.H.K. Tsang, "Secrecy-Driven Resource Management for Vehicular Computation-Ofﬂoading Networks", IEEE Network, vol. 32, no. 3, pp. 84-91, June 2018.
+. *X. Tan*, B. Sun, Y. Wu and D.H.K. Tsang, "Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles", Performance Evaluation (Elsevier), vol. 119, pp. 43-57, March 2018. \[[https://arxiv.org/abs/1707.07175 ArXiv]\]
+. A. Zhang, B. Sun, T. Liu, *X. Tan*, S. Wang and D.H.K. Tsang, “Joint Voltage and Frequency Regulation by EV Charging Scheduling in the Distribution Network,” in Proceedings of ISGT, 2018.
 
 == 2017
-. W. Li, X. Tan, B. Sun, and D.H.K. Tsang, "Optimal Power Dispatch of a Centralized Electric Vehicle Battery Charging Station with Renewables", accepted by IET Communications, December 2017.
-. S. Agheb, X. Tan, B. Sun, and  D.H.K. Tsang, "Contract Design for Aggregating, Trading, and Distributing Reserves in Demand-side Frequency Regulation", IEEE Transactions on Industrial Informatics, December 2017.
-. T. Liu, X. Tan, B. Sun, Y. Wu, and D.H.K. Tsang, “Energy Management of Cooperative Microgrids: A Distributed Optimization Approach", accepted by
+. W. Li, *X. Tan*, B. Sun, and D.H.K. Tsang, "Optimal Power Dispatch of a Centralized Electric Vehicle Battery Charging Station with Renewables", accepted by IET Communications, December 2017.
+. S. Agheb, *X. Tan*, B. Sun, and  D.H.K. Tsang, "Contract Design for Aggregating, Trading, and Distributing Reserves in Demand-side Frequency Regulation", IEEE Transactions on Industrial Informatics, December 2017.
+. T. Liu, *X. Tan*, B. Sun, Y. Wu, and D.H.K. Tsang, “Energy Management of Cooperative Microgrids: A Distributed Optimization Approach", accepted by
 International Journal of Electrical Power and Energy Systems, November 2017. \[[documents/distributed_MG_IJEPES.pdf PDF]\]
-. S. Wang, B. Sun, T. Liu, X. Tan, and D.H.K. Tsang, “Real-time Market-based Coordination Mechanism for Transmission and Distribution Networks”, in Proceedings of IEEE International Conference on Smart Grid Communications (IEEE SmartGridComm 2017), Oct. 2017.
-. T. Liu, B. Sun, X. Tan, and D.H.K. Tsang, "Market for Multi-Dimensional Flexibility with Parametric Demand Response Bidding", in Proceedings of 49th North American Power Symposium, Sept. 2017.
-. X. Tan, Y. Wu and D.H.K. Tsang, "A Stochastic Shortest Path Framework for Quantifying the Value and Lifetime of Battery Energy Storage under Dynamic Pricing", IEEE Transactions on Smart Grid,  vol. 8, no. 2, pp. 769-778, March 2017. \[[documents/ssp_bess_tsg.pdf PDF]\] 
-. B. Sun, X. Tan, and D.H.K. Tsang, “Optimal Charging Operation of Battery Swapping and Charging Stations with QoS Guarantee", accepted by IEEE Transactions on Smart Grid, Feb. 2017. \[[documents/operation_BSCS_QoS.pdf PDF]\]
+. S. Wang, B. Sun, T. Liu, *X. Tan*, and D.H.K. Tsang, “Real-time Market-based Coordination Mechanism for Transmission and Distribution Networks”, in Proceedings of IEEE International Conference on Smart Grid Communications (IEEE SmartGridComm 2017), Oct. 2017.
+. T. Liu, B. Sun, *X. Tan*, and D.H.K. Tsang, "Market for Multi-Dimensional Flexibility with Parametric Demand Response Bidding", in Proceedings of 49th North American Power Symposium, Sept. 2017.
+. *X. Tan*, Y. Wu and D.H.K. Tsang, "A Stochastic Shortest Path Framework for Quantifying the Value and Lifetime of Battery Energy Storage under Dynamic Pricing", IEEE Transactions on Smart Grid,  vol. 8, no. 2, pp. 769-778, March 2017. \[[documents/ssp_bess_tsg.pdf PDF]\] 
+. B. Sun, *X. Tan*, and D.H.K. Tsang, “Optimal Charging Operation of Battery Swapping and Charging Stations with QoS Guarantee", accepted by IEEE Transactions on Smart Grid, Feb. 2017. \[[documents/operation_BSCS_QoS.pdf PDF]\]
  
 
 
 == 2016
-. B. Sun, Zhe Huang, X. Tan, and D.H.K. Tsang, "Optimal Scheduling for Electric Vehicle Charging with Discrete Charging Levels in Distribution Grid", accepted by IEEE Transactions on Smart Grid, 2016. \[[documents/ev_discrete_charging_sgc.pdf PDF]\] 
-. X. Tan, Y. Wu and D.H.K. Tsang, "Pareto Optimal Operation of Distributed Battery Energy Storage Systems for Energy Arbitrage under Dynamic Pricing", IEEE Transactions on Parallel and Distributed Systems, Vol. 27, No. 7, 2103-2115, July 2016. \[[documents/pareto_bess_tpds.pdf PDF]\] 
-. Y. Wu, X. Tan, L.P. Qian, D.H.K. Tsang, W.Z. Song, L. Yu, "Chapter 6: Management of Scheduling and Trading in Hybrid Energy Trading Market", Smart Grid as a Solution for Renewable and Efficient Energy, IGI Global, 2016.
-. S. Agheb, X. Tan, B. Sun, and D.H.K. Tsang, "Robust Provisioning of Demand-Side Flexibility Under Electricity Price Uncertainty", in Proceedings of 2016 IEEE International Conference on Industrial Technology (ICIT 2016), Taiwan, March 2016.
+. B. Sun, Zhe Huang, *X. Tan*, and D.H.K. Tsang, "Optimal Scheduling for Electric Vehicle Charging with Discrete Charging Levels in Distribution Grid", accepted by IEEE Transactions on Smart Grid, 2016. \[[documents/ev_discrete_charging_sgc.pdf PDF]\] 
+. *X. Tan*, Y. Wu and D.H.K. Tsang, "[documents/pareto_bess_tpds.pdf Pareto Optimal Operation of Distributed Battery Energy Storage Systems for Energy Arbitrage under Dynamic Pricing]", IEEE Transactions on Parallel and Distributed Systems, Vol. 27, No. 7, pp. 2103-2115, July 2016. 
+. Y. Wu, *X. Tan*, L.P. Qian, D.H.K. Tsang, W.Z. Song, L. Yu, "Chapter 6: Management of Scheduling and Trading in Hybrid Energy Trading Market", Smart Grid as a Solution for Renewable and Efficient Energy, IGI Global, 2016.
+. S. Agheb, *X. Tan*, B. Sun, and D.H.K. Tsang, "[documents/robust_dsf_icit.pdf Robust Provisioning of Demand-Side Flexibility Under Electricity Price Uncertainty]", in Proceedings of IEEE ICIT, March 2016.
 
 
 == 2015
-. Y. Wu, X. Tan, L. Qian, D.H.K. Tsang, W. Song, and L. Yu, "Optimal Pricing and Energy Scheduling for Hybrid Energy Trading Market in Future Smart Grid", IEEE Transactions on Industrial Informatics, vol. 11, no. 6, pp. 1585-1596, Dec. 2015. \[[documents/pricing_hybrid_market_tii.pdf PDF]\]
-. T. Liu, X. Tan, B. Sun, Y. Wu, X. Guan, and D.H.K. Tsang, “Energy Management of Cooperative  Microgrids with P2P Energy Sharing in Distribution Networks", in Proceedings of IEEE 6th International Conference on Smart Grid Communications (IEEE SmartGridComm 2015), Nov. 2015.\[[documents/microgrid_p2p_sgc.pdf  PDF]\]
-. W. Li, X. Tan, and D.H.K. Tsang, “Smart Home Energy Management  Systems Based on Non-Intrusive Load Monitoring", in Proceedings of IEEE 6th International Conference on Smart Grid Communications (IEEE SmartGridComm 2015), Nov. 2015. \[[documents/smart_home_nilm_sgc.pdf PDF]\]
-. S. Agheb, X. Tan, and D.H.K. Tsang, “Model Predictive Control of  Integrated Room Automation Considering Occupants Preference", in Proceedings of IEEE 6th International Conference on Smart Grid Communications (IEEE SmartGridComm 2015), Nov. 2015. \[[documents/mpc_room_sgc.pdf  PDF]\]
-. X. Tan, Y. Wu, and D.H.K. Tsang, “A Monotonic Optimization based Optimal Discrete Charging Protocol for Electric Vehicles with Multilevel Charging Rates", \[*invited paper*\], in Proceedings of the 27th Chinese Control and Decision Conference (CCDC), Qingdao, China, May. 2015.
-. Y. Wu, X. Tan, L. Qian and D.H.K. Tsang, “Optimal Management of Local Energy Trading in Future Smart Microgrid via Pricing", in Proceedings of  IEEE INFOCOM Workshop, Smart Data Pricing,  2015. \[[documents/trading_pricing_sdc.pdf PDF]\]
-. S. Niafar, X. Tan, and D.H.K. Tsang et al, "Optimal Downlink Scheduling for Heterogeneous Traffic in LET-A Based on MDP and Chance-Constrained Approaches", ACM Springer Mobile Networks and Applications (MONET) Journal, 2015. \[[documents/downlink_scheduling_monet.pdf PDF]\]
+. Y. Wu, *X. Tan*, L. Qian, D.H.K. Tsang, W. Song, and L. Yu, "[documents/pricing_hybrid_market_tii.pdf Optimal Pricing and Energy Scheduling for Hybrid Energy Trading Market in Future Smart Grid]", IEEE Transactions on Industrial Informatics, vol. 11, no. 6, pp. 1585-1596, Dec. 2015.
+. S. Niafar, *X. Tan*, and D.H.K. Tsang et al, "[documents/downlink_scheduling_monet.pdf Optimal Downlink Scheduling for Heterogeneous Traffic in LET-A Based on MDP and Chance-Constrained Approaches]", ACM Springer Mobile Networks and Applications (MONET) Journal, 2015.
+. T. Liu, *X. Tan*, B. Sun, Y. Wu, X. Guan, and D.H.K. Tsang, "[documents/microgrid_p2p_sgc.pdf Energy Management of Cooperative  Microgrids with P2P Energy Sharing in Distribution Networks]", in Proceedings of IEEE SmartGridComm, Nov. 2015.
+. W. Li, *X. Tan*, and D.H.K. Tsang, "[documents/smart_home_nilm_sgc.pdf Smart Home Energy Management  Systems Based on Non-Intrusive Load Monitoring]", in Proceedings of IEEE SmartGridComm 2015.
+. S. Agheb, *X. Tan*, and D.H.K. Tsang, "[documents/mpc_room_sgc.pdf Model Predictive Control of  Integrated Room Automation Considering Occupants Preference]", in Proceedings of IEEE SmartGridComm 2015.
+. Y. Wu, *X. Tan*, L. Qian and D.H.K. Tsang, "[documents/trading_pricing_sdc.pdf Optimal Management of Local Energy Trading in Future Smart Microgrid via Pricing]", in Proceedings of  IEEE INFOCOM Workshop-Smart Data Pricing, May. 2015.
 
 == 2014
-. X. Tan, B. Sun and D.H.K. Tsang, "Queueing Network Models for Electric Vehicle Charging Station with Battery Swapping", in Proceedings of  IEEE 5th International Conference on Smart Grid Communications (IEEE SmartGridComm 2014), Nov. 2014. \[[documents/queueing_bscs_sgc.pdf  PDF]\]
-. X. Tan, Y. Wu and D.H.K. Tsang, "Optimal Energy Trading with Battery Energy Storage under Dynamic Pricing", in Proceedings of  IEEE 5th International Conference on Smart Grid Communications (IEEE SmartGridComm 2014), Nov. 2014. \[[documents/trading_bess_sgc.pdf  PDF]\]
-. B. Sun, X. Tan and D.H.K. Tsang, "Optimal Charging Operation of Battery Swapping Stations with QoS Guarantee", in Proceedings of  IEEE 5th International Conference on Smart Grid Communications (IEEE SmartGridComm 2014), Nov. 2014. \[[documents/operation_bscs_sgc.pdf PDF]\]
-. Y. Wu, X. Sun, X. Tan, L. Meng, L. Yu, W. Song and D.H.K. Tsang, "Cooperative Distributed Energy Generation and Energy Trading for Future Smart Grid", in Proceedings of the 33rd Chinese Control Conference (CCC), Nanjing, China, Jul. 2014. \[[documents/coop_trading_ccc.pdf PDF]\]
-. S. Niafar, X. Tan and D.H.K. Tsang, "The Optimal User Scheduling for LTE-A Downlink with Heterogeneous Traffic Types", \[*invited paper*\], in Proceedings of 10th International Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness (Qshine 2014), Rhodes, Greece, 2014. \[[documents/downlink_sheduling_qhine.pdf PDF]\]
+. *X. Tan*, B. Sun and D.H.K. Tsang, "[documents/queueing_bscs_sgc.pdf Queueing Network Models for Electric Vehicle Charging Station with Battery Swapping]", in Proceedings of  IEEE SmartGridComm 2014.
+. *X. Tan*, Y. Wu and D.H.K. Tsang, "[documents/trading_bess_sgc.pdf Optimal Energy Trading with Battery Energy Storage under Dynamic Pricing]", in Proceedings of IEEE SmartGridComm 2014.
+. B. Sun, *X. Tan* and D.H.K. Tsang, "[documents/operation_bscs_sgc.pdf  Optimal Charging Operation of Battery Swapping Stations with QoS Guarantee]", in Proceedings of IEEE SmartGridComm 2014.
+. Y. Wu, X. Sun, *X. Tan*, L. Meng, L. Yu, W. Song and D.H.K. Tsang, "[documents/coop_trading_ccc.pdf Cooperative Distributed Energy Generation and Energy Trading for Future Smart Grid]", in Proceedings of the 33rd Chinese Control Conference (CCC), Nanjing, China, Jul. 2014.
+. S. Niafar, *X. Tan* and D.H.K. Tsang, "[documents/downlink_sheduling_qhine.pdf  The Optimal User Scheduling for LTE-A Downlink with Heterogeneous Traffic Types]", \[*invited paper*\], in Proceedings of 10th International Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness (Qshine 2014), Rhodes, Greece, 2014.
 
 == 2013
-. X. Tan, Y. Wu and D.H.K. Tsang, "Economic Analysis of Lifetime-Constrained Battery Storage under Dynamic Pricing", in Proceedings of IEEE 4th International Conference on Smart Grid Communications (IEEE SmartGridComm 2013), Oct. 2013. \[[documents/lifetime_analysis_bess_sgc.pdf PDF]\]
+. *X. Tan*, Y. Wu and D.H.K. Tsang, "[documents/lifetime_analysis_bess_sgc.pdf Economic Analysis of Lifetime-Constrained Battery Storage under Dynamic Pricing]", in Proceedings of IEEE SmartGridComm 2013.
