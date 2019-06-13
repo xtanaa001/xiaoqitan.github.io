@@ -19,7 +19,7 @@ I am currently a Postdoc at the Dept. of Electrical & Computer Engineering, Univ
 
 
 == Research Interests
-I am broadly interested in the mathematical and algorithmic aspects of systems and networks. I explore stochastic models, optimization, online algorithms, and mechanism design to derive insights into the design and management of large-scale networked systems. Some current applications of interests include: *edge\/fog\/cloud computing*, *network slicing*, and *energy systems*. In particular, my current research tends to feature online mechanism design for networked systems and markets, where self-interested users compete for resources and services such as computing cycles, sliced network resources, and  energy demand. The goal is to design economic incentives and online allocation algorithms so that a desired system-wide performance can be achieved despite the presence of strategic and uncertain user behaviors. 
+I am broadly interested in the mathematical and algorithmic aspects of systems and networks. I explore stochastic models, optimization, online algorithms, and mechanism design to derive insights into the design and management of large-scale systems. Some current applications of interests include: *edge\/fog\/cloud computing*, *network resource allocation*, and *energy systems*. In particular, my current research tends to feature online mechanism design for resource allocation in large-scale systems, where self-interested users compete for resources and services such as computing cycles, sliced network resources, and  energy demand. The goal is to design economic incentives and online allocation algorithms so that a desired system-wide performance can be achieved despite the presence of strategic and uncertain user behaviors. 
 
 
 
