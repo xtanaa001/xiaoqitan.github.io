@@ -19,11 +19,16 @@ I am currently a Postdoc at the Dept. of Electrical & Computer Engineering, Univ
 
 
 == Research Interests
-My research interests lie in the mathematical and algorithmic aspects of systems and networks. I explore stochastic models, optimization, mechanism design, and online algorithms to derive insights into the design and management of large-scale systems. Some current applications of interests include: network resource allocation, edge\/fog\/cloud computing,  and energy systems (e.g., electric vehicle charging). 
+My research interests lie in the mathematical and algorithmic aspects of systems and networks. I explore optimization, online algorithms, mechanism design, and machine learning to derive insights into the design and management of large-scale systems, with particular applications to edge\/fog\/cloud computing, energy systems (e.g., electric vehicle charging), and smart mobility systems. 
 
-In particular, my current research tends to feature online mechanism design for resource allocation in large-scale systems, where self-interested users compete for resources such as computing cycles, bandwidth, and energy with private preferences. The goal is to design economic incentives and online allocation algorithms so that a desired system-wide performance can be achieved despite the presence of strategic and uncertain user behaviors. 
+#Some current applications of interests include: edge\/fog\/cloud computing, network resource allocation, and energy systems (e.g., electric vehicle charging). 
+
+#My research interests lie in the mathematical and algorithmic aspects of systems and networks. I explore stochastic models, optimization, mechanism design, and online algorithms to derive insights into the design and management of large-scale systems. Some current applications of interests include: network resource allocation, edge\/fog\/cloud computing,  and energy systems (e.g., electric vehicle charging). 
+
+In particular, my current research focuses on the intersection between online algorithms, mechanism design and resource allocation. The goal is to design economic incentives (e.g., pricing) and online allocation mechanisms so that a competitive performance can be achieved despite the presence of strategic and uncertain user behaviors.   
 
 
+#where self-interested users compete for resources such as computing cycles, bandwidth, and energy with private preferences. 
 
 #To accomplish this, I use tools from online algorithms, algorithmic mechanism design and optimization.  
 
@@ -56,7 +61,7 @@ In particular, my current research tends to feature online mechanism design for 
 == Selected Papers ([/publication_type.html Full List] and [https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en Google Scholar])
 
 #- _X. Tan_, A. Leon-Garcia, Y. Wu, B. Sun, and D.H.K. Tsang, "An Adaptive Algorithm for Online Resource Allocation in Fog Computing", preprint.
-- _X. Tan_, A. Leon-Garcia, and D.H.K. Tsang, "Online Resource Allocation with Supply Costs and Capacity Limits: A Unified Framework", preprint. Earlier version appeared in ACM MAMA in 2019.
+- _X. Tan_, A. Leon-Garcia, and D.H.K. Tsang, "Optimal Posted Prices for Online Resource Allocation with Supply Costs and Capacity Limits", preprint. Earlier version appeared in ACM Sigmetrics Workshop on MAMA in 2019.
 
 - _X. Tan_, A. Leon-Garcia, B. Sun and D.H.K. Tsang, "Online Mechanism Design for Demand-Side Flexibility Management", preprint. Extended abstract appeared in ACM e-Energy in 2019. 
 
