@@ -19,13 +19,13 @@ I am currently a Postdoc at the Dept. of Electrical & Computer Engineering, Univ
 
 
 == Research Interests
-My research interests lie in the mathematical and algorithmic aspects of systems and networks. I explore optimization, stochastic models, mechanism design, and machine learning to derive decision-making insights into the design and operation of real-world systems and network infrastructures, with particular applications to edge\/fog\/cloud computing, energy systems (e.g., electric vehicle charging), and smart mobility systems. 
+My research interests lie in the mathematical and algorithmic aspects of systems and networks. I explore optimization, mechanism design, stochastic models, and machine learning to derive decision-making insights into the design and operation of real-world systems and network infrastructures, with particular applications to edge\/fog\/cloud computing, energy systems (e.g., electric vehicle charging), and smart mobility systems. 
 
 #Some current applications of interests include: edge\/fog\/cloud computing, network resource allocation, and energy systems (e.g., electric vehicle charging). 
 
 #My research interests lie in the mathematical and algorithmic aspects of systems and networks. I explore stochastic models, optimization, mechanism design, and online algorithms to derive insights into the design and management of large-scale systems. Some current applications of interests include: network resource allocation, edge\/fog\/cloud computing,  and energy systems (e.g., electric vehicle charging). 
 
-In particular, my current research sits at the intersection between online algorithms, mechanism design and resource allocation. The goal is to design economic incentives (e.g., pricing/payment) and online allocation mechanisms so that a competitive system-wide performance can be achieved despite the presence of strategic and uncertain user behaviors.   
+In particular, my current research sits at the intersection between online optimization, algorithmic mechanism design and resource allocation. The goal is to design economic incentives and online algorithms so that a desired system-wide performance can be achieved in an efficient way despite the presence of strategic and uncertain user behaviors.   
 
 
 #where self-interested users compete for resources such as computing cycles, bandwidth, and energy with private preferences. 
