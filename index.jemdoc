@@ -21,10 +21,12 @@ I am currently a Postdoc at the Dept. of Electrical & Computer Engineering, Univ
 == Research Interests
 #My research interests lie in the mathematical and algorithmic aspects of systems and networks.  I explore optimization, mechanism design, stochastic models, and machine learning to derive decision-making insights into the design and operation of real-world systems and network infrastructures, with particular applications to edge\/fog\/cloud computing, energy systems (e.g., electric vehicle charging), and smart mobility systems. 
 
-My research interests broadly lie in the mathematical and algorithmic aspects of networked systems and markets, with particular applications to the interdisciplinary area between networking, energy and economics. 
+My research interests lie in the mathematical and algorithmic aspects of the interdisciplinary area between networking, energy and economics. I explore optimization, algorithmic mechanism design, stochastic models, and machine learning to derive insights into systems design and operations.  In particular, my current research focuses on the following topics (theories+applications):
+- *online algorithms* and *online mechanism design*.
+- *networking*: edge\/fog\/cloud computing, network resource allocation. 
+- *energy systems*: transactive energy, electric vehicle charging, and electricity markets.
+- *network economics*: pricing, online auctions, and resource allocation mechanisms\/games.
 
-
-In particular, I explore optimization, online algorithms, mechanism design, stochastic models, and machine learning to derive insights into systems design and operations. Current topics of interest include network economics, edge\/fog\/cloud computing, energy systems (e.g., transactive energy, electric vehicle charging, and eletricity markets), and electric mobility systems.  
 
 
 #In particular, my current research sits at the intersection between online algorithms and mechanism design, and 
@@ -73,9 +75,9 @@ In particular, I explore optimization, online algorithms, mechanism design, stoc
 # Previously I also work on stochastic models and applied probability (e.g., queueing theory, Markov chain). 
 
 == Selected Papers ([/publication_type.html Full List] and [https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en Google Scholar])
-~~~
+
 #- _X. Tan_, A. Leon-Garcia, Y. Wu, B. Sun, and D.H.K. Tsang, "An Adaptive Algorithm for Online Resource Allocation in Fog Computing", preprint.
-- _X. Tan_, A. Leon-Garcia, and D.H.K. Tsang, "Optimal Posted Prices for Online Resource Allocation with Supply Costs and Capacity Limits", preprint. Earlier version appeared in ACM Sigmetrics Workshop on MAMA in 2019.
+- _X. Tan_, A. Leon-Garcia, and D.H.K. Tsang, "Online Resource Allocation with Supply Costs and Capacity Limits: A Unified Framework", preprint. Earlier version appeared in ACM Sigmetrics Workshop on MAMA in 2019.
 
 - _X. Tan_, A. Leon-Garcia, B. Sun and D.H.K. Tsang, "Online Mechanism Design for Demand-Side Flexibility Management", preprint. Extended abstract appeared in ACM e-Energy in 2019. 
 
@@ -86,6 +88,9 @@ In particular, I explore optimization, online algorithms, mechanism design, stoc
 
 #- _X. Tan_, A. Leon-Garcia and D.H.K. Tsang, "Optimal Posted Prices for Online Resource Allocation with Supply Costs", in Proceedings of ACM MAMA, 2019. 
 #- _X. Tan_, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, "A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals", Extended Abstract, in Proceedings of ACM e-Energy 2019. 
+
+- S. Wang, _X. Tan_, T. Liu, and D.H.K. Tsang, "Aggregation of Demand-Side Flexibility in Electricity Markets: Negative Impact Analysis and Mitigation Method", preprint.
+
 - B. Sun, _X. Tan_, and D.H.K. Tsang, "[documents/MDF_mechanism_TPS.pdf Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach]", to appear in IEEE Transactions on Power Systems. 
 
 #3. Performance Modeling and Optimization of Electric Vehicle Networks
@@ -115,7 +120,6 @@ In particular, I explore optimization, online algorithms, mechanism design, stoc
 
 #In particular, I pay close attention to future energy and urban mobility systems, supported by key technologies and business models such as distributed energy resources in smart power grids, autonomous and electric vehicles, shared economy, intelligent transportation, information and communication techniques, etc. 
 
-~~~
 
 #== Latest News
 

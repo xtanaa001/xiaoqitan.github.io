@@ -2,7 +2,7 @@
 == Publications
 
 == Journal Papers
-- _X. Tan_, A. Leon-Garcia, and D.H.K. Tsang, "Optimal Posted Prices for Online Resource Allocation with Supply Costs and Capacity Limits”, preprint. Earlier version appeared in ACM Sigmetrics Workshop on MAMA in 2019.
+- _X. Tan_, A. Leon-Garcia, and D.H.K. Tsang, "Online Resource Allocation with Supply Costs and Capacity Limits: A Unified Framework”, preprint. Earlier version appeared in ACM Sigmetrics Workshop on MAMA in 2019.
 
 - _X. Tan_, A. Leon-Garcia, B. Sun and D.H.K. Tsang, "Online Mechanism Design for Demand-Side Flexibility Management", preprint. Extended abstract appeared in ACM e-Energy in 2019. 
 
@@ -11,7 +11,7 @@
 #- T. Liu, _X. Tan_, S. Wu, and D.H.K. Tsang, "Robust Economic Dispatch with Flexible Demand and Adjustable Uncertainty Set", preprint.
 #- T. Liu, B. Sun, _X. Tan_, and D.H.K. Tsang, "Chance-Constrained Economic Dispatch with Flexible Loads and RES", preprint.
 #- S. Wang, B. Sun, T. Liu, _X. Tan_, and D.H.K. Tsang, "Real-time Interactions between Transmission and Distribution Networks", preprint.
-#- S. Wang, _X. Tan_, T. Liu, and D.H.K. Tsang, "Aggregation of Demand-Side Flexibility in Electricity Markets: Negative Impact Analysis and Mitigation Method", preprint.
+- S. Wang, _X. Tan_, T. Liu, and D.H.K. Tsang, "Aggregation of Demand-Side Flexibility in Electricity Markets: Negative Impact Analysis and Mitigation Method", preprint.
 
 . B. Sun, _X. Tan_, and D.H.K. Tsang, "[documents/MDF_mechanism_TPS.pdf Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach]", to appear in IEEE Transactions on Power Systems. 
 . _X. Tan_, G. Qu, B. Sun, N. Li, and D.H.K. Tsang, “[documents/bcs_scheduling_ev_tsg.pdf Optimal Scheduling of Battery Charging Stations Serving Electric Vehicles Based on Battery Swapping]”, IEEE Transactions on Smart Grid, vol. 10, no. 2, pp. 1372-1384, March 2019.
