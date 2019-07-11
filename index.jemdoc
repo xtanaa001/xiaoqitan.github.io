@@ -21,7 +21,10 @@ I am currently a Postdoc at the Dept. of Electrical & Computer Engineering, Univ
 == Research Interests
 #My research interests lie in the mathematical and algorithmic aspects of systems and networks.  I explore optimization, mechanism design, stochastic models, and machine learning to derive decision-making insights into the design and operation of real-world systems and network infrastructures, with particular applications to edge\/fog\/cloud computing, energy systems (e.g., electric vehicle charging), and smart mobility systems. 
 
-My research interests lie in the mathematical and algorithmic aspects of the interdisciplinary area between networking, energy and economics. I explore optimization, online algorithms, mechanism design, stochastic models, and machine learning to improve the design and operation of networked systems and markets. Current topics of interest include network economics, edge\/fog\/cloud computing, energy systems, and electric mobility systems.  
+My research interests broadly lie in the mathematical and algorithmic aspects of networked systems and markets, with particular applications to the interdisciplinary area between networking, energy and economics. 
+
+
+In particular, I explore optimization, online algorithms, mechanism design, stochastic models, and machine learning to derive insights into systems design and operations. Current topics of interest include network economics, edge\/fog\/cloud computing, energy systems (e.g., transactive energy, electric vehicle charging, and eletricity markets), and electric mobility systems.  
 
 
 #In particular, my current research sits at the intersection between online algorithms and mechanism design, and 
@@ -70,7 +73,7 @@ My research interests lie in the mathematical and algorithmic aspects of the int
 # Previously I also work on stochastic models and applied probability (e.g., queueing theory, Markov chain). 
 
 == Selected Papers ([/publication_type.html Full List] and [https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en Google Scholar])
-
+~~~
 #- _X. Tan_, A. Leon-Garcia, Y. Wu, B. Sun, and D.H.K. Tsang, "An Adaptive Algorithm for Online Resource Allocation in Fog Computing", preprint.
 - _X. Tan_, A. Leon-Garcia, and D.H.K. Tsang, "Optimal Posted Prices for Online Resource Allocation with Supply Costs and Capacity Limits", preprint. Earlier version appeared in ACM Sigmetrics Workshop on MAMA in 2019.
 
@@ -112,6 +115,7 @@ My research interests lie in the mathematical and algorithmic aspects of the int
 
 #In particular, I pay close attention to future energy and urban mobility systems, supported by key technologies and business models such as distributed energy resources in smart power grids, autonomous and electric vehicles, shared economy, intelligent transportation, information and communication techniques, etc. 
 
+~~~
 
 #== Latest News
 
