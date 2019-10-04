@@ -24,8 +24,8 @@ I am currently a Postdoc at the Dept. of Electrical & Computer Engineering, Univ
 #My research interests lie in the algorithmic aspects of the interdisciplinary area between networking, energy and economics. I explore online\/distributed optimization, algorithmic mechanism design, stochastic models, and machine learning to derive insights into the systems design and operations. Current topics of interest include:
 
 I work on the algorithmic aspects of the interdisciplinary area between networking, energy and economics. Current topics of interest include
-- *online algorithms* for optimization, mechanism design, and machine learning.
-- *network economics*: pricing, auctions, and algorithmic game theory.
+- *online algorithms* in optimization and machine learning.
+- *network economics*: pricing, auctions, and algorithmic mechanism design.
 - *networking*: cloud and edge\/fog computing, network resource allocation. 
 - *energy systems*: transactive energy, electric vehicle charging, and electricity markets.
 
@@ -83,15 +83,15 @@ I work on the algorithmic aspects of the interdisciplinary area between networki
 
 - _X. Tan_, A. Leon-Garcia, B. Sun and D.H.K. Tsang, "Agent-based Real-time Demand-Side Flexibility Management under Arbitrary Arrivals", preprint. Extended abstract appeared in ACM e-Energy in 2019. 
 
-- _X. Tan_, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, "Posted-Price  Retailing of Transactive Energy: An Optimal Online  Mechanism without Prediction", preprint. 
-
 
 #2. Online Mechanisms Design for Transactive Energy and Electric Vehicle Charging
 
 #- _X. Tan_, A. Leon-Garcia and D.H.K. Tsang, "Optimal Posted Prices for Online Resource Allocation with Supply Costs", in Proceedings of ACM MAMA, 2019. 
 #- _X. Tan_, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, "A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals", Extended Abstract, in Proceedings of ACM e-Energy 2019. 
 
-- S. Wang, _X. Tan_, T. Liu, and D.H.K. Tsang, "Aggregation of Demand-Side Flexibility in Electricity Markets: Negative Impact Analysis and Mitigation Method", preprint.
+#- S. Wang, _X. Tan_, T. Liu, and D.H.K. Tsang, "Aggregation of Demand-Side Flexibility in Electricity Markets: Negative Impact Analysis and Mitigation Method", preprint.
+
+- _X. Tan_, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, "Posted-Price  Retailing of Transactive Energy: An Optimal Online  Mechanism without Prediction", to appear in IEEE Journal of Selected Areas in Communications. 
 
 - B. Sun, _X. Tan_, and D.H.K. Tsang, "[documents/MDF_mechanism_TPS.pdf Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach]", to appear in IEEE Transactions on Power Systems. 
 
