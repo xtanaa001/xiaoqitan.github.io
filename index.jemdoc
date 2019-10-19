@@ -24,10 +24,8 @@ I am currently a Postdoc at the Dept. of Electrical & Computer Engineering, Univ
 #My research interests lie in the algorithmic aspects of the interdisciplinary area between networking, energy and economics. I explore online\/distributed optimization, algorithmic mechanism design, stochastic models, and machine learning to derive insights into the systems design and operations. Current topics of interest include:
 
 I work on the algorithmic aspects of the interdisciplinary area between networking, energy and economics. Current topics of interest include
-- *online algorithms* in optimization and mechanism design.
-- *network economics*: pricing, auctions, and multi-agent resource allocation.
-- *networking and computing systems*: cloud and edge\/fog computing, network optimization.  
-- *power and energy systems*: transactive energy, electric vehicle charging, and electricity markets.
+- Theories: online algorithms, algorithmic mechanism design, and network optimization.
+- Applications: network resource allocation, cloud and edge\/fog computing, power and energy systems.
 
 
 
@@ -79,9 +77,11 @@ I work on the algorithmic aspects of the interdisciplinary area between networki
 == Selected Papers ([/publication_type.html Full List] and [https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en Google Scholar])
 
 #- *X. Tan*, A. Leon-Garcia, Y. Wu, B. Sun, and D.H.K. Tsang, "An Adaptive Algorithm for Online Resource Allocation in Fog Computing", preprint.
-- *X. Tan*, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, "Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits", preprint. Earlier version appeared in ACM Sigmetrics Workshop on MAMA in 2019.
+- *X. Tan*, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, "Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits", preprint. [https://www.sigmetrics.org/mama/abstracts/Tan.pdf Earlier version] appeared in ACM Sigmetrics Workshop on MAMA in 2019. 
+#Full paper with complete proofs in [https:// Arxiv].
 
-- *X. Tan*, A. Leon-Garcia, B. Sun and D.H.K. Tsang, "Agent-based Real-time Demand-Side Flexibility Management under Arbitrary Arrivals", preprint. Extended abstract appeared in ACM e-Energy in 2019. 
+- *X. Tan*, A. Leon-Garcia, B. Sun and D.H.K. Tsang, "Agent-based Real-time Demand-Side Flexibility Management under Arbitrary Arrivals", preprint. [/documents/e_energy_19.pdf Extended abstract] appeared in ACM e-Energy in 2019. 
+#Full paper with complete proofs in [https:// Arxiv]. 
 
 
 #2. Online Mechanisms Design for Transactive Energy and Electric Vehicle Charging
@@ -91,7 +91,8 @@ I work on the algorithmic aspects of the interdisciplinary area between networki
 
 #- S. Wang, *X. Tan*, T. Liu, and D.H.K. Tsang, "Aggregation of Demand-Side Flexibility in Electricity Markets: Negative Impact Analysis and Mitigation Method", preprint.
 
-- *X. Tan*, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, "Posted-Price  Retailing of Transactive Energy: An Optimal Online  Mechanism without Prediction", to appear in IEEE Journal of Selected Areas in Communications. 
+- *X. Tan*, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, "Posted-Price  Retailing of Transactive Energy: An Optimal Online  Mechanism without Prediction", to appear in IEEE Journal of Selected Areas in Communications - Special Issue on Communications and Data Analytics in Smart Grid. 
+#Full paper with complete proofs in [https:// Arxiv].
 
 - B. Sun, *X. Tan*, and D.H.K. Tsang, "[documents/MDF_mechanism_TPS.pdf Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach]", IEEE Trans. on Power Systems, vol. 34, no. 5, pp. 4038–4047, Sept. 2019. 
 
