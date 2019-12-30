@@ -11,119 +11,59 @@ Postdoctoral Fellow\n
 Bahen Centre for Information Technology, Room 7137 \n
 40 St. George Street, Toronto, Ontario M5S 2E4, Canada \n 
 
-Email: x.y@utoronto.ca, where x=xiaoqi, y=tan (My name is pronounced as "Shiao-Chee") 
+Email: x.y@utoronto.ca, where x=xiaoqi, y=tan (My name is pronounced as "Shiao-Chee")\n
+# Email2: x.y@gmail.com, where x=xiaoqi, y=xtan 
 ~~~
 
 == Biography
-I am currently a Postdoc at the Dept. of Electrical & Computer Engineering, University of Toronto, hosted by Prof. [https://www.nal.utoronto.ca/ Alberto Leon-Garcia]. Prior to my current position, I received my Ph.D. in Electronic and Computer Engineering from Hong Kong University of Science and Technology, advised by Prof. [http://www.ee.ust.hk/~eetsang/ Danny H.K. Tsang]. From Oct. 2015 to April 2016, I was also affiliated with the School of Engineering and Applied Science, Harvard University, hosted by Prof. [https://nali.seas.harvard.edu/ Na Li].
+I am currently a Postdoc at the University of Toronto, hosted by Prof. [https://www.nal.utoronto.ca/ Alberto Leon-Garcia]. Prior to my current position, I received my Ph.D. degree in electronic and computer engineering from the Hong Kong University of Science and Technology, advised by Prof. [http://www.ee.ust.hk/~eetsang/ Danny H.K. Tsang]. From Oct. 2015 to April 2016, I was a visiting student with the School of Engineering and Applied Science, Harvard University, hosted by Prof. [https://nali.seas.harvard.edu/ Na (Lina) Li].
 
 
-== Research Interests
-#My research interests lie in the algorithmic aspects of systems and networks.  I explore  optimization, mechanism design, stochastic models, and machine learning to derive decision-making insights into the design and operation of real-world systems and network infrastructures, with particular applications to edge\/fog\/cloud computing, energy systems (e.g., electric vehicle charging), and smart mobility systems. 
+== Research
+# I study the interplay between mechanism design, online algorithms, and machine learning, with a focus on applications in networked\n systems such as data networks, cloud computing and smart grid. A large part of my current research focuses on the algorithmic aspects of online mechanism design, online optimization, and online learning.
 
-#My research interests lie in the algorithmic aspects of the interdisciplinary area between networking, energy and economics. I explore online\/distributed optimization, algorithmic mechanism design, stochastic models, and machine learning to derive insights into the systems design and operations. Current topics of interest include:
+#I study networks in the presence of interacting and self-interested agents, with a focus on understanding the interplay between mechanism design, online algorithms, and machine learning. 
 
-I'm interested in the algorithmic and economic aspects of computing, networking, and energy systems. Current topics of interest include
+I work on problems at the intersection of [https://en.wikipedia.org/wiki/Mechanism_design *mechanism design*], [https://en.wikipedia.org/wiki/Online_optimization *online algorithms*], and [https://en.wikipedia.org/wiki/Sequential_decision_making *sequential decision-making*], with a focus on applications in networked systems (e.g., computer networks, cloud computing, smart grid and ridesharing). 
 
-- online algorithms, algorithmic mechanism design, network optimization.
-- cloud and edge\/fog computing, wireless networking, smart grid\/smart cities.
+# A large part of my current research focuses on the algorithmic aspects of online mechanism design. The goal is to design online resource allocation and pricing mechanisms, with strong incentive and efficiency guarantee, for systems of interacting and self-interested agents that appear in a sequential manner.
 
+Below please find my recent and selected publications. For more details, please see [/publication_type.html Publication] page or my [https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en Google Scholar].
 
+~~~
 
-#In particular, my current research sits at the intersection between online algorithms and mechanism design, and 
+- *X. Tan*, A. Leon-Garcia, et al., ``Orchestration of Virtual Network Functions: A Mechanism Design Approach", preprint. \n
 
-# (e.g., transactive energy, electric vehicle charging, and eletricity markets)
-
-#In particular, , and focuses on optimizing user ba networked systems in the presence of strategic and uncertain user behaviors.  its at the intersection between online algorithms, mechanism design, and resource allocation. The goal is to design economic incentives (e.g., pricing) and online allocation mechanisms so that a competitive system-wide performance can be achieved despite the presence of strategic and uncertain user behaviors.
-
-#The goal is to achieve a competitive system-wide performance despite the presence of strategic and uncertain user behaviors.
-
-#
-
-#My current research sits at the interdisciplinary area between networking, energy and economics. I focus on performance modeling and optimization of networked systems in the presence of strategic and uncertain user behaviors. online algorithms and mechanism design.  and resource allocation problems in communication networks. The goal is to design economic incentives (e.g., pricing) and online mechanisms so that a competitive system-wide performance can be achieved despite the presence of strategic and uncertain user behaviors.   
-
-#I explore optimization, mechanism design, stochastic models, and machine learning to derive decision-making insights into the design and operation of real-world systems and network infrastructures, with particular applications to edge\/fog\/cloud computing, energy systems (e.g., electric vehicle charging), and smart mobility systems. 
+# - *X. Tan*, A. Leon-Garcia, et al., ``Online Resource Scheduling in the Clouds", preprint.
 
 
-#where self-interested users compete for resources such as computing cycles, bandwidth, and energy with private preferences. 
+- *X. Tan*, A. Leon-Garcia, et al., ``Online Knapsack Problems with Weight-Dependent Packing Costs", preprint.
 
-#To accomplish this, I use tools from online algorithms, algorithmic mechanism design and optimization.  
-
-# of networked systems, with particular applications to edge\/fog\/cloud computing systems and energy systems (e.g., smart grid and electric vehicle charging).  
+- *X. Tan*, A. Leon-Garcia, et al., ``Mechanism Design for Online Resource Allocation: A Unified Approach", preprint.
 
 
+#- *X. Tan*, A. Leon-Garcia, et al., "A Real-time Pricing Framework for Demand-Side Management under Arbitrary Arrivals", preprint.\n
+#\-- Technical report with complete proofs: [https:// arXiv version].\n
+#\-- Extended abstract appeared in ACM e-Energy in 2019: [/documents/e_energy_19.pdf \[Extended Abstract\]]. 
 
-#
+- *X. Tan*, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, "[documents/OCA-JSAC-2020.pdf Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits]", IEEE Journal of Selected Areas in Communications - Special Issue on Smart Data Pricing for Next Generation Networks, in press.\n
+#\-- Full paper with complete proofs: [https:// \[arXiv Technical Report\]].\n
+\-- Earlier version appeared in ACM Sigmetrics Workshop on MAMA in 2019: [https://www.sigmetrics.org/mama/abstracts/Tan.pdf \[Extended Abstract\]]. 
 
-
-
-#Some current topics of interests include: 
-
-#:{}
-
-# For the detailed research description, please see [/research.html Current Research]. 
- 
-
-# I am interested in online algorithms, algorithmic mechanism design and stochastic models.  
-
-
-# I am currently working on smart energy and distributed computing systems, with a focus on improving energy sustainability and algorithmic efficiency. Examples of past and current research projects include demand-side management in smart grids, electric vehicle networks in smart cities, and resource management in cloud/edge computing.  For more information, please see [/research.html Current Research] and [/publication_type.html Publication]. 
-
-# I am also broadly interested in the optimization of networked systems, focusing on designing incentive mechanisms (e.g., pricing) and decision-making algorithms for network operators such that a desired performance can be achieved through a collective behavior of its users/customers. In particular, my research tends to focus on applications where online and sequential decision making under uncertain customer behaviors plays an important role, drawing on tools from [https://en.wikipedia.org/wiki/Online_algorithm online algorithms], [https://en.wikipedia.org/wiki/Mathematical_optimization optimization], [https://en.wikipedia.org/wiki/Algorithmic_game_theory algorithmic game theory], and stochastic models (e.g., queueing theory, Markov chain). 
-
-
-
-# Previously I also work on stochastic models and applied probability (e.g., queueing theory, Markov chain). 
-
-== Selected Papers ([/publication_type.html Full List] and [https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en Google Scholar])
-
-#- *X. Tan*, A. Leon-Garcia, Y. Wu, B. Sun, and D.H.K. Tsang, "An Adaptive Algorithm for Online Resource Allocation in Fog Computing", preprint.
-- *X. Tan*, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, "Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits", preprint. [https://www.sigmetrics.org/mama/abstracts/Tan.pdf Earlier version] appeared in ACM Sigmetrics Workshop on MAMA in 2019. 
-#Full paper with complete proofs in [https:// Arxiv].
-
-- *X. Tan*, A. Leon-Garcia, B. Sun and D.H.K. Tsang, "Agent-based Real-time Demand-Side Flexibility Management under Arbitrary Arrivals", preprint. [/documents/e_energy_19.pdf Extended abstract] appeared in ACM e-Energy in 2019. 
-#Full paper with complete proofs in [https:// Arxiv]. 
-
-
-#2. Online Mechanisms Design for Transactive Energy and Electric Vehicle Charging
-
-#- *X. Tan*, A. Leon-Garcia and D.H.K. Tsang, "Optimal Posted Prices for Online Resource Allocation with Supply Costs", in Proceedings of ACM MAMA, 2019. 
-#- *X. Tan*, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, "A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals", Extended Abstract, in Proceedings of ACM e-Energy 2019. 
+- *X. Tan*, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, "[documents/PPR-JSAC-2020.pdf Posted-Price  Retailing of Transactive Energy: An Optimal Online  Mechanism without Prediction]", IEEE Journal of Selected Areas in Communications - Special Issue on Communications and Data Analytics in Smart Grid, in press.\n
+#\-- Full paper with complete proofs: [https:// \[arXiv Technical Report\]].
 
 #- S. Wang, *X. Tan*, T. Liu, and D.H.K. Tsang, "Aggregation of Demand-Side Flexibility in Electricity Markets: Negative Impact Analysis and Mitigation Method", preprint.
 
-- *X. Tan*, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, "Posted-Price  Retailing of Transactive Energy: An Optimal Online  Mechanism without Prediction", to appear in IEEE Journal of Selected Areas in Communications - Special Issue on Communications and Data Analytics in Smart Grid. 
-#Full paper with complete proofs in [https:// Arxiv].
+#- B. Sun, *X. Tan*, and D.H.K. Tsang, "[documents/MDF_mechanism_TPS.pdf Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach]", IEEE Trans. on Power Systems, vol. 34, no. 5, pp. 4038–4047, Sept. 2019. 
 
-- B. Sun, *X. Tan*, and D.H.K. Tsang, "[documents/MDF_mechanism_TPS.pdf Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach]", IEEE Trans. on Power Systems, vol. 34, no. 5, pp. 4038–4047, Sept. 2019. 
+#- *X. Tan*, G. Qu, B. Sun, N. Li, and D.H.K. Tsang, “[documents/bcs_scheduling_ev_tsg.pdf Optimal Scheduling of Battery Charging Stations Serving Electric Vehicles Based on Battery Swapping]”, IEEE Transactions on Smart Grid, vol. 10, no. 2, pp. 1372-1384, March 2019.
+#- B. Sun, *X. Tan*, and D.H.K. Tsang, "[documents/operation_BSCS_QoS.pdf Optimal Charging Operation of Battery Swapping and Charging Stations with QoS Guarantee]", IEEE Transactions on Smart Grid, vol. 9, no. 5, pp. 4689-4701, Sept. 2018.
+#- *X. Tan*, B. Sun, Y. Wu and D.H.K. Tsang, "[documents/bscs_queuing_pe.pdf Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles]", Performance Evaluation (Elsevier), vol. 119, pp. 43-57, March 2018.  \[[https://arxiv.org/abs/1707.07175 ArXiv Technical Report]\] 
+#- *X. Tan*, Y. Wu and D.H.K. Tsang, "[documents/ssp_bess_tsg.pdf A Stochastic Shortest Path Framework for Quantifying the Value and Lifetime of Battery Energy Storage under Dynamic Pricing]", IEEE Transactions on Smart Grid,  vol. 8, no. 2, pp. 769-778, March 2017.
+#- *X. Tan*, Y. Wu and D.H.K. Tsang, "[documents/pareto_bess_tpds.pdf Pareto Optimal Operation of Distributed Battery Energy Storage Systems for Energy Arbitrage under Dynamic Pricing]", IEEE Transactions on Parallel and Distributed Systems, Vol. 27, No. 7, pp. 2103-2115, July 2016. 
 
-#3. Performance Modeling and Optimization of Electric Vehicle Networks
-- *X. Tan*, G. Qu, B. Sun, N. Li, and D.H.K. Tsang, “[documents/bcs_scheduling_ev_tsg.pdf Optimal Scheduling of Battery Charging Stations Serving Electric Vehicles Based on Battery Swapping]”, IEEE Transactions on Smart Grid, vol. 10, no. 2, pp. 1372-1384, March 2019.
-- B. Sun, *X. Tan*, and D.H.K. Tsang, "[documents/operation_BSCS_QoS.pdf Optimal Charging Operation of Battery Swapping and Charging Stations with QoS Guarantee]", IEEE Transactions on Smart Grid, vol. 9, no. 5, pp. 4689-4701, Sept. 2018.
-- *X. Tan*, B. Sun, Y. Wu and D.H.K. Tsang, "[documents/bscs_queuing_pe.pdf Asymptotic Performance Evaluation of Battery Swapping and Charging Station for Electric Vehicles]", Performance Evaluation (Elsevier), vol. 119, pp. 43-57, March 2018.  \[[https://arxiv.org/abs/1707.07175 ArXiv Technical Report]\] 
-- *X. Tan*, Y. Wu and D.H.K. Tsang, "[documents/ssp_bess_tsg.pdf A Stochastic Shortest Path Framework for Quantifying the Value and Lifetime of Battery Energy Storage under Dynamic Pricing]", IEEE Transactions on Smart Grid,  vol. 8, no. 2, pp. 769-778, March 2017.
-- *X. Tan*, Y. Wu and D.H.K. Tsang, "[documents/pareto_bess_tpds.pdf Pareto Optimal Operation of Distributed Battery Energy Storage Systems for Energy Arbitrage under Dynamic Pricing]", IEEE Transactions on Parallel and Distributed Systems, Vol. 27, No. 7, pp. 2103-2115, July 2016. 
-
-
-# My research interests lie in optimization, performance evaluation, and mechanism design of large-scale systems, with a particular focus on energy systems and communication systems. 
-
-#- *Mechanism Design*. Algorithmic mechanism design is concerned about designing distributed protocols that will lead to a desired objective despite the existence of self-interested agents. In particular, online mechanism design of multi-agent systems in the presence of uncertainty lies at the intersection of economic game theory and theoretic computer science where analytical tools such as worst-case analysis of online algorithms and approximation algorithms are frequently used. 
-
-#- *Performance Evaluation*. Performance evaluation plays an important role in modeling and analyzing the quality-of- service of real-world service systems subject to uncertainty. The goal is to derive analytical solutions and insight into the design and operation of real-world service systems based on stochastic models including queueing theory and Markov chain, etc.
-
-#- *Sequential Decision Making*. Sequential decision making is concerned about designing algorithms that take the dynamics of the world into consideration, and thus enable intelligent agents to take appropriate actions where earlier decisions influences the later ones. Key theoretic frameworks to studying sequential decision making under uncertainty include Markov decision process, reinforcement learning and approximate dynamic programming.  
-
-
-#The goal is to design computationally-efficient algorithms that can guarantee optimality or sub-optimality with performance bounds. 
-
-#I am ehusiastic in developing new methodologies for the technical and economic management of smart power grids with high penetration of distributed energy resources such as wind, solar and energy storage.  In the absence of effective tools and methodologies, the power grid will experience frequency and voltage variations, and overloads of transformers and transmission lines, etc. One of the central issues confronting grid operators is that the current design of power distribution system is unaccustomed to intermittency or uncertainty, a major characteristic of distributed energy resources (DERs) such as wind and solar. Motivated by these challenges, 
-#- Electrified Transportation Systems. 
-#Increasing popularity of electric vehicles necessitates development of infrastructure networks to provide energy refueling services for electric vehicles based on plug-in charging and/or battery swapping. 
-#- Smart Mobility. 
-#One of the central issues confronting grid operators is that the current design of power distribution system is unaccustomed to intermittency or uncertainty, a major characteristic of distributed energy resources (DERs) such as wind and solar. In the absence of effective tools and methodologies to manage high levels of DERs, the power grid will experience frequency and voltage variations, and overloads of transformers and transmission lines, etc. Motivated by these challenges, I am ehusiastic in developing new methodologies for the technical and economic management of smart power grids with high penetration of DERs.  
-
-#In particular, I pay close attention to future energy and urban mobility systems, supported by key technologies and business models such as distributed energy resources in smart power grids, autonomous and electric vehicles, shared economy, intelligent transportation, information and communication techniques, etc. 
-
+~~~
 
 #== Latest News
 

@@ -2,19 +2,33 @@
 == Publications
 
 == Journal Papers
-- *X. Tan*, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, "Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits”, preprint. Earlier version appeared in ACM Sigmetrics Workshop on MAMA in 2019.
 
-- *X. Tan*, A. Leon-Garcia, B. Sun and D.H.K. Tsang, "Agent-based Real-time Demand-Side Flexibility Management under Arbitrary Arrivals", preprint. Extended abstract appeared in ACM e-Energy in 2019. 
+# - L. Ni, B. Sun, *X. Tan*, and D.H.K. Tsang, ``Inventory Planning and Real-time Routing for Network of Electric Vehicle Battery Swapping Stations", preprint.
 
-#- T. Liu, *X. Tan*, S. Wu, and D.H.K. Tsang, "Robust Economic Dispatch with Flexible Demand and Adjustable Uncertainty Set", preprint.
-#- T. Liu, B. Sun, *X. Tan*, and D.H.K. Tsang, "Chance-Constrained Economic Dispatch with Flexible Loads and RES", preprint.
-#- S. Wang, B. Sun, T. Liu, *X. Tan*, and D.H.K. Tsang, "Real-time Interactions between Transmission and Distribution Networks", preprint.
-- . L. Liu, B. Sun, *X. Tan*, and D.H.K. Tsang, "Joint Resource Allocation and Subchannel Assignment for NOMA-enabled Multi-access
-Edge Computing", preprint.
+# - L. Liu, B. Sun, *X. Tan*, and D.H.K. Tsang, "Joint Resource Allocation and Subchannel Assignment for NOMA-enabled Multi-access Edge Computing", preprint.
 
-- S. Wang, *X. Tan*, T. Liu, and D.H.K. Tsang, "Aggregation of Demand-Side Flexibility in Electricity Markets: Negative Impact Analysis and Mitigation Method", preprint.
+# - S. Wang, B. Sun, T. Liu, *X. Tan*, and D.H.K. Tsang, "Real-time Interactions between Transmission and Distribution Networks", preprint.
 
-. *X. Tan*, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, "Posted-Price  Retailing of Transactive Energy: An Optimal Online  Mechanism without Prediction", to appear in IEEE Journal of Selected Areas in Communications - Special Issue on Communications and Data Analytics in Smart Grid. 
+# - T. Liu, *X. Tan*, S. Wu, and D.H.K. Tsang, "Robust Economic Dispatch with Flexible Demand and Adjustable Uncertainty Set", preprint.
+
+# - S. Wang, *X. Tan*, T. Liu, and D.H.K. Tsang, "Aggregation of Demand-Side Flexibility in Electricity Markets: Negative Impact Analysis and Mitigation Method", preprint.
+
+# - T. Liu, B. Sun, *X. Tan*, and D.H.K. Tsang, "Chance-Constrained Economic Dispatch with Flexible Loads and RES", preprint.
+
+- *X. Tan*, A. Leon-Garcia, et al., ``Orchestration of Virtual Network Functions: A Mechanism Design Approach", preprint. \n
+
+# - *X. Tan*, A. Leon-Garcia, et al., ``Online Auctions for Resource Scheduling with Time Elasticity in the Clouds", preprint.
+
+- *X. Tan*, A. Leon-Garcia, et al., ``Online Knapsack Problems with Weight-Dependent Packing Costs", preprint.
+
+- *X. Tan*, A. Leon-Garcia, et al., ``Mechanism Design for Online Resource Allocation: A Unified Approach", preprint.
+
+
+# - *X. Tan*, A. Leon-Garcia, et al., "A Real-time Pricing Framework for Demand-Side Management under Arbitrary Arrivals", preprint. 
+
+
+. *X. Tan*, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, "[documents/OCA-JSAC-2020.pdf Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits]", IEEE Journal of Selected Areas in Communications - Special Issue on Smart Data Pricing for Next Generation Networks, in press.
+. *X. Tan*, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, "[documents/PPR-JSAC-2020.pdf Posted-Price  Retailing of Transactive Energy: An Optimal Online  Mechanism without Prediction]", IEEE Journal of Selected Areas in Communications - Special Issue on Communications and Data Analytics in Smart Grid, in press.
 . B. Sun, *X. Tan*, and D.H.K. Tsang, "[documents/MDF_mechanism_TPS.pdf Eliciting Multi-dimensional Flexibility from Electric Vehicles: A Mechanism Design Approach]", IEEE Transactions on Power Systems, vol. 34, no. 5, pp. 4038–4047, Sept. 2019.
 . *X. Tan*, G. Qu, B. Sun, N. Li, and D.H.K. Tsang, “[documents/bcs_scheduling_ev_tsg.pdf Optimal Scheduling of Battery Charging Stations Serving Electric Vehicles Based on Battery Swapping]”, IEEE Transactions on Smart Grid, vol. 10, no. 2, pp. 1372-1384, March 2019.
 . B. Sun, *X. Tan*, and D.H.K. Tsang, "[documents/operation_BSCS_QoS.pdf Optimal Charging Operation of Battery Swapping and Charging Stations with QoS Guarantee]", IEEE Transactions on Smart Grid, vol. 9, no. 5, pp. 4689-4701, Sept. 2018.
@@ -31,9 +45,9 @@ Edge Computing", preprint.
 
 
 == Conferences Papers
-. *X. Tan*, A. Leon-Garcia and D.H.K. Tsang, "Optimal Posted Prices for Online Resource Allocation with Supply Costs", in Proceedings of ACM Sigmetrics Workshop on MAMA in 2019.
-. *X. Tan*, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, "A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals", \[Extended Abstract\], in Proceedings of ACM e-Energy, 2019. 
-. L. Liu, B. Sun, *X. Tan*, Y.S. Xiao, D.H.K. Tsang, "Energy-efficient Resource Allocation and Channel Assignment for NOMA-based Mobile Edge Computing", in Proceedings of IEEE Wireless Communications and Networking Conference (WCNC), April. 2019, Marrakech, Morocco.
+. *X. Tan*, A. Leon-Garcia and D.H.K. Tsang, "[https://www.sigmetrics.org/mama/abstracts/Tan.pdf Optimal Posted Prices for Online Resource Allocation with Supply Costs]", in Proceedings of ACM Sigmetrics Workshop on MAMA in 2019.
+. *X. Tan*, A. Leon-Garcia, B. Sun, and D.H.K. Tsang, "[/documents/e_energy_19.pdf A Novel Online Mechanism for Demand-Side Flexibility Management under Arbitrary Arrivals]", \[Extended Abstract\], in Proceedings of ACM e-Energy, 2019. 
+. L. Liu, B. Sun, *X. Tan*, Y.S. Xiao, D.H.K. Tsang, "[/documents/noma_mec_wcnc19.pdf Energy-efficient Resource Allocation and Channel Assignment for NOMA-based Mobile Edge Computing]", in Proceedings of IEEE Wireless Communications and Networking Conference (WCNC), April. 2019, Marrakech, Morocco.
 . *X. Tan* and A. Leon-Garcia, "[https://arxiv.org/abs/1810.04576 Autonomous Mobility and Energy Service Management in Future Smart Cities: An Overview]", in Proceedings of IEEE UV 2018, MIT, Boston, MA, USA.
 . L. Ni, B. Sun, *X. Tan* and D.H.K. Tsang, "[documents/online_v2s_sgc.pdf Online Price-based Vehicle-to-Station Recommendations for EV Battery Swapping]", in Proceedings of IEEE SmartGridComm, Oct. 2018, Aalborg, Denmark.
 . A. Zhang, B. Sun, T. Liu, *X. Tan*, S. Wang and D.H.K. Tsang, “Joint Voltage and Frequency Regulation by EV Charging Scheduling in the Distribution Network,” in Proceedings of ISGT, 2018.
