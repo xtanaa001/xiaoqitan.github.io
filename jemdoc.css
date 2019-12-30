@@ -1,7 +1,7 @@
 /* Default css file for jemdoc. */
 
 table#tlayout {
-    width:1080px;
+    width:1120px;
     border: none;
     border-collapse: separate;
     background: #b2h2h2;
@@ -14,7 +14,7 @@ body {
 	background: white;
 	border: 1px solid #dddddd;
 	font-family: Georgia, sans-serif;
-	font-size: 1.0em;
+	font-size: 1.06em;
 	padding-bottom: 0px;
 	margin: 0;
         background-image:url('backgroundpic2.jpg');
