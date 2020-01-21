@@ -22,11 +22,17 @@ I am currently a Postdoc at the University of Toronto, hosted by Prof. [https://
 == Research
 # I study the interplay between mechanism design, online algorithms, and machine learning, with a focus on applications in networked\n systems such as data networks, cloud computing and smart grid. A large part of my current research focuses on the algorithmic aspects of online mechanism design, online optimization, and online learning.
 
-#I study networks in the presence of interacting and self-interested agents, with a focus on understanding the interplay between mechanism design, online algorithms, and machine learning. 
+# I study networks in the presence of interacting and self-interested agents, with a focus on understanding the interplay between mechanism design, online algorithms, and machine learning. 
 
-I study the interplay between *mechanism design*, *online algorithms*, and *sequential decision-making*, with a focus on applications in networked systems (e.g., computer networks, cloud computing, smart grid and ridesharing). 
+# I study the interplay between *mechanism design*, *online algorithms*, and *sequential decision-making*, with a focus on applications in networked systems (e.g., computer networks, cloud computing, smart grid and ridesharing). 
 
 # A large part of my current research focuses on the algorithmic aspects of online mechanism design. The goal is to design online resource allocation and pricing mechanisms, with strong incentive and efficiency guarantee, for systems of interacting and self-interested agents that appear in a sequential manner.
+
+I study the interplay between *incentives*, *algorithms*, and *learning*, with a focus on applications in communication, computing, and energy systems. Current topics of interest include:
+
+- algorithmic mechanism design and game theory.		
+- online algorithms in optimization, mechanism design, and machine learning.
+- sequential decision-making under uncertainty (e.g., MDP and reinforcement learning).
 
 Below please find my recent and selected publications. For more details, please see [/publication_type.html Publication] page or my [https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en Google Scholar].
 
