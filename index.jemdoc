@@ -2,7 +2,7 @@
 ==Xiaoqi Tan's Homepage
 
 ~~~
-{}{img_left}{photos/xiaoqi.jpg}{alt text}{132}{190}{http://xiaoqitan.org}
+{}{img_left}{photos/xiaoqi.jpg}{alt text}{131}{190}{http://xiaoqitan.org}
 
 Postdoctoral Fellow\n
 [https://www.ece.utoronto.ca/ Electrical & Computer Engineering],\n
@@ -15,39 +15,24 @@ Email: x.y@utoronto.ca, where x=xiaoqi, y=tan (My name is pronounced as "Shiao-C
 # Email2: x.y@gmail.com, where x=xiaoqi, y=xtan 
 ~~~
 
-== Biography
-I am currently a Postdoc at the University of Toronto, hosted by Prof. [https://www.nal.utoronto.ca/ Alberto Leon-Garcia]. Prior to my current position, I received my Ph.D. degree in electronic and computer engineering from the Hong Kong University of Science and Technology, advised by Prof. [http://www.ee.ust.hk/~eetsang/ Danny H.K. Tsang]. From Oct. 2015 to April 2016, I was a visiting student with the School of Engineering and Applied Science, Harvard University, hosted by Prof. [https://nali.seas.harvard.edu/ Na (Lina) Li].
+== About Me
+I am a postdoc at the [https://www.ece.utoronto.ca/ Dept. of ECE], [https://www.utoronto.ca/ University of Toronto], working with Prof. [https://www.nal.utoronto.ca/ Alberto Leon-Garcia]. Prior to joining UofT, I received my Ph.D. degree in electronic and computer engineering from the [https://www.ust.hk/ Hong Kong University of Science and Technology (HKUST)] in 2018, advised by Prof. [http://www.ee.ust.hk/~eetsang/ Danny H.K. Tsang]. From October 2015 to April 2016, I was a visiting research fellow with the [https://www.seas.harvard.edu/ School of Engineering and Applied Science], [https://www.harvard.edu/ Harvard University], hosted by Prof. [https://nali.seas.harvard.edu/ Na (Lina) Li].
 
 
 == Research
-# I study the interplay between mechanism design, online algorithms, and machine learning, with a focus on applications in networked\n systems such as data networks, cloud computing and smart grid. A large part of my current research focuses on the algorithmic aspects of online mechanism design, online optimization, and online learning.
 
-# I study networks in the presence of interacting and self-interested agents, with a focus on understanding the interplay between mechanism design, online algorithms, and machine learning. 
-
-# I study the interplay between *mechanism design*, *online algorithms*, and *sequential decision-making*, with a focus on applications in networked systems (e.g., computer networks, cloud computing, smart grid and ridesharing). 
-
-# A large part of my current research focuses on the algorithmic aspects of online mechanism design. The goal is to design online resource allocation and pricing mechanisms, with strong incentive and efficiency guarantee, for systems of interacting and self-interested agents that appear in a sequential manner.
-
-# I study the interplay between _incentives_, _algorithms_, and _learning_, with a focus on applications in _networking_ and _energy systems_ (e.g., cloud computing, computer networks, and smart grid). Current topics of interest include:
-
-# - Algorithmic mechanism design/game theory.		
-# - Online algorithms and sequential decision-making.
-# - Machine learning algorithms and applications.
-
-I study the interplay between incentives, algorithms, and learning, with a focus on applications in networked systems (e.g., cloud computing, communication networks, and energy systems). 
-
-A large part of my current research focuses on problems at the intersection of mechanism design and online algorithms. The goal is to design economic incentives and algorithms that lead to efficient online decision-making for networked systems despite the presence of strategic user behaviors and incomplete future information.
+My research focuses both on developing analytical techniques in online algorithms, algorithmic game theory, and mechanism design, and applying these techniques in application domains such as cloud computing, network economics, energy-efficient computing, and smart grid. Though diverse, these areas all play essential roles in my  broader research goal: achieving a better balance between /economic efficiency/ and /energy sustainability/ for applications and services in /networking and energy systems/.
 
 Below please find my recent and selected publications. For more details, please see [/publication_type.html Publication] page or my [https://scholar.google.com/citations?user=drR_WcAAAAAJ&hl=en Google Scholar].
 
 ~~~
 
-- *X. Tan*, A. Leon-Garcia, et al., ``Orchestration of Virtual Network Functions: A Mechanism Design Approach", preprint. \n
+# - *X. Tan*, A. Leon-Garcia, et al., ``Orchestration of Virtual Network Functions: A Mechanism Design Approach", preprint. \n
 
 # - *X. Tan*, A. Leon-Garcia, et al., ``Online Resource Scheduling in the Clouds", preprint.
 
 
-- *X. Tan*, A. Leon-Garcia, et al., ``Online Knapsack Problems with Weight-Dependent Packing Costs", preprint.
+- *X. Tan*, A. Leon-Garcia, et al., ``Online Knapsack Problems with Convex Packing Costs", preprint.
 
 - *X. Tan*, A. Leon-Garcia, et al., ``Mechanism Design for Online Resource Allocation: A Unified Approach", preprint.
 
@@ -56,7 +41,7 @@ Below please find my recent and selected publications. For more details, please 
 #\-- Technical report with complete proofs: [https:// arXiv version].\n
 #\-- Extended abstract appeared in ACM e-Energy in 2019: [/documents/e_energy_19.pdf \[Extended Abstract\]]. 
 
-- *X. Tan*, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, "Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits", IEEE Journal of Selected Areas in Communications - Special Issue on Smart Data Pricing for Next Generation Networks, in press.\n
+- *X. Tan*, A. Leon-Garcia, Y. Wu, and D.H.K. Tsang, "[documents/OCA_JSAC_2020.pdf Online Combinatorial Auctions for Resource Allocation with Supply Costs and Capacity Limits]", IEEE Journal of Selected Areas in Communications - Special Issue on Smart Data Pricing for Next Generation Networks, in press.\n
 #\-- Full paper with complete proofs: [https:// \[arXiv Technical Report\]].\n
 \-- Earlier version appeared in ACM Sigmetrics Workshop on MAMA in 2019: [https://www.sigmetrics.org/mama/abstracts/Tan.pdf \[Extended Abstract\]]. 
 
